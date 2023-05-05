@@ -1,0 +1,726 @@
+
+[2023-04-18 14:53:26,389][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-18 14:53:26,994][__main__][INFO] - Initializing world
+[2023-04-18 14:53:27,444][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-18 14:53:29,025][pybulletX.gui.control_panel][INFO] - name: base_139796880281168_x, low: -0.04, high: 0.005, init_value: -0.015
+[2023-04-18 14:53:29,105][pybulletX.gui.control_panel][INFO] - name: base_139796880281168_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-18 14:53:29,206][pybulletX.gui.control_panel][INFO] - name: base_139796880281168_z, low: 0.02, high: 0.03, init_value: 0.04
+[2023-04-18 14:53:29,313][pybulletX.gui.control_panel][INFO] - name: base_139796880281168_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-18 14:53:29,412][pybulletX.gui.control_panel][INFO] - name: base_139796880281168_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-18 14:53:29,510][pybulletX.gui.control_panel][INFO] - name: base_139796880281168_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-18 14:53:29,613][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-18 14:56:51,003][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-18 14:56:51,616][__main__][INFO] - Initializing world
+[2023-04-18 14:56:52,102][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-18 14:56:53,472][pybulletX.gui.control_panel][INFO] - name: base_140044128768784_x, low: -0.04, high: 0.005, init_value: -0.015
+[2023-04-18 14:56:53,564][pybulletX.gui.control_panel][INFO] - name: base_140044128768784_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-18 14:56:53,684][pybulletX.gui.control_panel][INFO] - name: base_140044128768784_z, low: 0.02, high: 0.03, init_value: 0.04
+[2023-04-18 14:56:53,809][pybulletX.gui.control_panel][INFO] - name: base_140044128768784_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-18 14:56:53,909][pybulletX.gui.control_panel][INFO] - name: base_140044128768784_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-18 14:56:54,024][pybulletX.gui.control_panel][INFO] - name: base_140044128768784_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-18 14:56:54,131][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-18 15:00:27,276][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-18 15:00:27,799][__main__][INFO] - Initializing world
+[2023-04-18 15:00:28,186][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-18 15:00:29,323][pybulletX.gui.control_panel][INFO] - name: base_139678767011008_x, low: -0.04, high: 0.005, init_value: -0.015
+[2023-04-18 15:00:29,396][pybulletX.gui.control_panel][INFO] - name: base_139678767011008_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-18 15:00:29,506][pybulletX.gui.control_panel][INFO] - name: base_139678767011008_z, low: 0.02, high: 0.03, init_value: 0.04
+[2023-04-18 15:00:29,593][pybulletX.gui.control_panel][INFO] - name: base_139678767011008_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-18 15:00:29,680][pybulletX.gui.control_panel][INFO] - name: base_139678767011008_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-18 15:00:29,764][pybulletX.gui.control_panel][INFO] - name: base_139678767011008_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-18 15:00:29,859][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-18 15:00:31,100][__main__][INFO] - object id: 2_-1, object pose: ((-0.01500000049173832, 0.0, 0.03809357638888889), (0.0, -0.0, 0.0))
+[2023-04-18 15:02:04,578][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-18 15:02:05,087][__main__][INFO] - Initializing world
+[2023-04-18 15:02:05,484][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-18 15:02:06,917][pybulletX.gui.control_panel][INFO] - name: base_140138204499056_x, low: -0.04, high: 0.005, init_value: -0.015
+[2023-04-18 15:02:06,989][pybulletX.gui.control_panel][INFO] - name: base_140138204499056_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-18 15:02:07,079][pybulletX.gui.control_panel][INFO] - name: base_140138204499056_z, low: 0.02, high: 0.03, init_value: 0.04
+[2023-04-18 15:02:07,166][pybulletX.gui.control_panel][INFO] - name: base_140138204499056_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-18 15:02:07,248][pybulletX.gui.control_panel][INFO] - name: base_140138204499056_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-18 15:02:07,336][pybulletX.gui.control_panel][INFO] - name: base_140138204499056_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-18 15:02:07,410][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-18 15:02:08,589][__main__][INFO] - object id: 2_-1, object pose: ((-0.01500000049173832, 0.0, 0.03809357638888889), (0.0, -0.0, 0.0))
+[2023-04-18 15:02:09,591][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458691594, 0.0, 0.029999999329447753), (0.0, -0.0, 0.0))
+[2023-04-18 15:02:10,592][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458691594, 0.0, 0.029999999329447753), (0.0, -0.0, 0.0))
+[2023-04-18 15:02:11,598][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458691594, 0.0, 0.029999999329447753), (0.0, -0.0, 0.0))
+[2023-04-18 15:02:12,601][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458691594, 0.0, 0.029999999329447753), (0.0, -0.0, 0.0))
+[2023-04-18 15:02:13,605][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458691594, 0.0, 0.029947754926716752), (0.0, -0.0, 0.0))
+[2023-04-18 15:02:14,607][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458691594, 0.0, 0.02921957135097127), (0.0, -0.0, 0.0))
+[2023-04-18 15:02:15,609][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458691594, 0.0, 0.028527247524470698), (0.0, -0.0, 0.0))
+[2023-04-18 15:02:16,610][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458691594, 0.0, 0.02794736830240723), (0.0, -0.0, 0.0))
+[2023-04-18 15:02:17,610][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458691594, 0.0, 0.027263178721789263), (0.0, -0.0, 0.0))
+[2023-04-18 15:02:18,612][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458691594, 0.0, 0.02668782894781612), (0.0, -0.0, 0.0))
+[2023-04-18 15:02:19,613][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458691594, 0.0, 0.02605264853411429), (0.0, -0.0, 0.0))
+[2023-04-18 15:02:20,616][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458691594, 0.0, 0.02549473887773807), (0.0, -0.0, 0.0))
+[2023-04-18 15:02:21,618][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458691594, 0.0, 0.02487368679168949), (0.0, -0.0, 0.0))
+[2023-04-18 15:02:22,637][__main__][INFO] - object id: 2_-1, object pose: ((-0.014999997502533198, 2.6269293643485058e-06, 0.02462096727332838), (-0.0005901616833785675, 1.1290970037628404e-06, 1.958777279298058e-08))
+[2023-04-18 15:02:23,640][__main__][INFO] - object id: 2_-1, object pose: ((-0.014999997503581323, 2.6269746085383163e-06, 0.02462096727207273), (-0.0005901717415140858, 1.128864166326669e-06, 1.9594750142949476e-08))
+[2023-04-18 15:02:24,645][__main__][INFO] - object id: 2_-1, object pose: ((-0.014999997503581323, 2.6269746085383163e-06, 0.02462096727207273), (-0.000590171741513856, 1.1288641298520788e-06, 1.959475115524922e-08))
+[2023-04-18 15:02:25,647][__main__][INFO] - object id: 2_-1, object pose: ((-0.014999997503581323, 2.6269746085383163e-06, 0.02462096727207273), (-0.000590171741513633, 1.128864093831531e-06, 1.9594752154947805e-08))
+[2023-04-18 15:02:26,648][__main__][INFO] - object id: 2_-1, object pose: ((-0.014999999410520961, 4.07826719253513e-06, 0.02462092676116541), (-0.0009128068267665702, 7.055980203604681e-07, 4.2704937102609466e-08))
+[2023-04-18 15:02:27,688][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458691587, 1.0905773778734615e-15, 0.02462103942156544), (-6.1794649394582345e-06, 2.689132463785954e-08, 4.822083393751715e-09))
+[2023-04-18 15:02:28,716][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458701735, -2.356477419632141e-12, 0.024621039421629506), (-6.1789408414560625e-06, 2.688904436682203e-08, 4.822084069805111e-09))
+[2023-04-18 15:02:29,726][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458701735, -2.356477906790333e-12, 0.024621039421629506), (-6.178940839839498e-06, 2.6889002711694775e-08, 4.822085201615371e-09))
+[2023-04-18 15:02:30,736][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458701735, -2.3564779067904307e-12, 0.024621039421629506), (-6.178940838321117e-06, 2.6888961056594183e-08, 4.822086333436352e-09))
+[2023-04-18 15:02:31,748][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458701735, -2.3564779067904853e-12, 0.024621039421629506), (-6.178940836790191e-06, 2.6888919057236492e-08, 4.822087474611231e-09))
+[2023-04-18 15:02:32,751][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458701735, -2.356477906790391e-12, 0.024621039421629506), (-6.178940835284375e-06, 2.68888777463929e-08, 4.822088597078315e-09))
+[2023-04-18 15:02:33,758][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458701735, -2.356477906790401e-12, 0.024621039421629506), (-6.1789408337660215e-06, 2.688883609129233e-08, 4.822089728899296e-09))
+[2023-04-18 15:02:34,763][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458701735, -2.3564779067904877e-12, 0.024621039421629506), (-6.178940832253943e-06, 2.6888794608320293e-08, 4.822090856043327e-09))
+[2023-04-18 15:02:35,776][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458701735, -2.3564779067902918e-12, 0.024621039421629506), (-6.178940830729322e-06, 2.6888752781091135e-08, 4.822091992541253e-09))
+[2023-04-18 15:02:36,801][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458701735, -2.3564779067903035e-12, 0.024621039421629506), (-6.1789408291921655e-06, 2.6888710609604934e-08, 4.822093138393102e-09))
+[2023-04-18 15:02:37,839][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458701735, -2.356477906790506e-12, 0.024621039421629506), (-6.178940827629945e-06, 2.6888667749604673e-08, 4.822094302952728e-09))
+[2023-04-18 15:02:38,860][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458701735, -2.356477906790365e-12, 0.024621039421629506), (-6.178940826086548e-06, 2.688862540599005e-08, 4.8220954534814956e-09))
+[2023-04-18 15:02:39,865][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458701735, -2.356477906790189e-12, 0.024621039421629506), (-6.1789408245682466e-06, 2.6888583750889483e-08, 4.822096585302477e-09))
+[2023-04-18 15:02:40,868][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458701735, -2.3564779067902744e-12, 0.024621039421629506), (-6.178940823062492e-06, 2.6888542440045838e-08, 4.8220977077695865e-09))
+[2023-04-18 15:02:41,891][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458701735, -2.3564779067902793e-12, 0.024621039421629506), (-6.178940821525369e-06, 2.688850026855962e-08, 4.822098853621437e-09))
+[2023-04-18 15:02:42,926][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458701735, -2.3564779067906315e-12, 0.024621039421629506), (-6.178940819956873e-06, 2.6888457236430833e-08, 4.8221000228579944e-09))
+[2023-04-18 15:02:43,939][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458701735, -2.3564779067903152e-12, 0.024621039421629506), (-6.178940818444843e-06, 2.688841575345878e-08, 4.822101150002026e-09))
+[2023-04-18 15:02:44,951][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458701735, -2.356477906790341e-12, 0.024621039421629506), (-6.178940816920265e-06, 2.6888373926229646e-08, 4.822102286499952e-09))
+[2023-04-18 15:02:45,967][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458701735, -2.356477906790251e-12, 0.024621039421629506), (-6.178940815383138e-06, 2.688833175474345e-08, 4.822103432351775e-09))
+[2023-04-18 15:02:46,996][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458691597, 8.090889641680166e-16, 0.024621039421565457), (-6.179464849231425e-06, 2.6890556339460163e-08, 4.822104262103846e-09))
+[2023-04-18 15:02:48,011][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458691585, 6.245424548017808e-15, 0.024684127934173312), (-1.4030496357528527e-12, 2.626078014140207e-15, 6.703638318389713e-17))
+[2023-04-18 15:02:49,030][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458691594, 1.7637166101661212e-38, 0.025105262175197977), (-3.962231756126525e-36, 7.416080968588715e-39, 1.893116818513372e-40))
+[2023-04-18 15:02:50,065][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458691594, 1.3056764349814272e-62, 0.025105262175202363), (-2.933233493459136e-60, 5.490112246370751e-63, 1.4014711912063408e-64))
+[2023-04-18 15:02:51,067][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458691594, 1.208237581252665e-86, 0.02509473599493503), (-2.7143347665892315e-84, 5.080401057751331e-87, 1.2968834520495327e-88))
+[2023-04-18 15:02:52,072][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458691594, 5.331374679520892e-110, 0.024947367608547218), (-1.197706135852339e-107, 2.2417380473321383e-110, 5.722526517821198e-112))
+[2023-04-18 15:02:53,073][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458691594, 2.940600881654397e-133, 0.024947367608547218), (-6.606130558745071e-131, 1.236464753404932e-133, 3.1563466338681504e-135))
+[2023-04-18 15:02:54,076][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458691594, 1.2975465526221375e-156, 0.024665270997211206), (-2.914969517335149e-154, 5.455927692290988e-157, 1.392744836338333e-158))
+[2023-04-18 15:02:55,090][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458691594, 1.7472694285767713e-179, 0.0246315784752369), (-3.925282767373755e-177, 7.346923809400764e-180, 1.875462941521758e-181))
+[2023-04-18 15:02:56,107][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458691594, 4.934313255924912e-203, 0.0246315784752369), (-1.1085053326940283e-200, 2.0747815391313437e-203, 5.296333525897406e-205))
+[2023-04-18 15:02:57,130][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458691594, 7.134499589821896e-227, 0.0246315784752369), (-1.6027824808091767e-224, 2.9999165582218307e-227, 7.65794294123957e-229))
+[2023-04-18 15:02:58,140][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458691594, 3.1481135046960946e-250, 0.0246315784752369), (-7.072312654028258e-248, 1.323719724277865e-250, 3.3790840251643063e-252))
+[2023-04-18 15:02:59,142][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458691594, 1.8644344988467669e-274, 0.0248947363966239), (-4.188496913828313e-272, 7.839579853350406e-275, 2.0012241685759985e-276))
+[2023-04-18 15:03:00,144][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458691594, 1.0283572362969548e-297, 0.024894736707210534), (-2.3102292481752736e-295, 4.324039635990078e-298, 1.1038056614380568e-299))
+[2023-04-18 15:03:01,147][__main__][INFO] - object id: 2_-1, object pose: ((-0.015000002458691594, 4.536e-321, 0.02473684214055576), (-9.96837e-319, 4.487e-320, -6.007e-320))
+[2023-04-18 15:03:02,156][__main__][INFO] - object id: 2_-1, object pose: ((-0.014999998732251186, 1.1536934952282414e-06, 0.0246210079224713), (-0.00025671455565059645, 8.295617867645979e-07, 3.921622020169429e-09))
+[2023-04-18 15:03:03,183][__main__][INFO] - object id: 2_-1, object pose: ((-0.014999998732251186, 1.1536934952298374e-06, 0.0246210079224713), (-0.00025671455565094725, 8.2956174289366e-07, 3.921623223557397e-09))
+[2023-04-18 15:03:04,189][__main__][INFO] - object id: 2_-1, object pose: ((-0.014999998732251186, 1.1536934952298374e-06, 0.0246210079224713), (-0.00025671455565094725, 8.295617004379164e-07, 3.9216243880965464e-09))
+[2023-04-18 15:03:05,209][__main__][INFO] - object id: 2_-1, object pose: ((-0.014999998732251186, 1.1536934952298374e-06, 0.0246210079224713), (-0.00025671455565094725, 8.295616570976788e-07, 3.92162557689691e-09))
+[2023-04-18 15:03:06,231][__main__][INFO] - object id: 2_-1, object pose: ((-0.014999998732251186, 1.1536934952298374e-06, 0.0246210079224713), (-0.00025671455565094725, 8.295616137574413e-07, 3.921626765697139e-09))
+[2023-04-18 15:03:07,270][__main__][INFO] - object id: 2_-1, object pose: ((-0.014999998732251186, 1.1536934952298374e-06, 0.0246210079224713), (-0.00025671455565094725, 8.295615697096081e-07, 3.921627973906403e-09))
+[2023-04-18 16:20:32,081][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-18 16:20:32,545][__main__][INFO] - Initializing world
+[2023-04-18 16:20:32,912][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-18 16:20:34,510][pybulletX.gui.control_panel][INFO] - name: base_140667406206384_x, low: -0.04, high: 0.005, init_value: -0.015
+[2023-04-18 16:20:34,579][pybulletX.gui.control_panel][INFO] - name: base_140667406206384_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-18 16:20:34,660][pybulletX.gui.control_panel][INFO] - name: base_140667406206384_z, low: 0.02, high: 0.03, init_value: 0.04
+[2023-04-18 16:20:34,735][pybulletX.gui.control_panel][INFO] - name: base_140667406206384_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-18 16:20:34,815][pybulletX.gui.control_panel][INFO] - name: base_140667406206384_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-18 16:20:34,907][pybulletX.gui.control_panel][INFO] - name: base_140667406206384_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-18 16:20:34,981][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-18 16:22:08,031][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-18 16:22:08,469][__main__][INFO] - Initializing world
+[2023-04-18 16:22:08,847][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-18 16:22:10,205][pybulletX.gui.control_panel][INFO] - name: base_140638746063872_x, low: -0.04, high: 0.005, init_value: -0.015
+[2023-04-18 16:22:10,360][pybulletX.gui.control_panel][INFO] - name: base_140638746063872_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-18 16:22:10,437][pybulletX.gui.control_panel][INFO] - name: base_140638746063872_z, low: 0.02, high: 0.03, init_value: 0.04
+[2023-04-18 16:22:10,511][pybulletX.gui.control_panel][INFO] - name: base_140638746063872_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-18 16:22:10,586][pybulletX.gui.control_panel][INFO] - name: base_140638746063872_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-18 16:22:10,662][pybulletX.gui.control_panel][INFO] - name: base_140638746063872_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-18 16:22:10,761][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-18 16:54:59,830][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-18 16:55:00,306][__main__][INFO] - Initializing world
+[2023-04-18 16:55:00,791][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-18 16:55:02,119][pybulletX.gui.control_panel][INFO] - name: base_140294473758128_x, low: -0.04, high: 0.005, init_value: -0.015
+[2023-04-18 16:55:02,199][pybulletX.gui.control_panel][INFO] - name: base_140294473758128_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-18 16:55:02,283][pybulletX.gui.control_panel][INFO] - name: base_140294473758128_z, low: 0.02, high: 0.03, init_value: 0.04
+[2023-04-18 16:55:02,361][pybulletX.gui.control_panel][INFO] - name: base_140294473758128_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-18 16:55:02,440][pybulletX.gui.control_panel][INFO] - name: base_140294473758128_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-18 16:55:02,522][pybulletX.gui.control_panel][INFO] - name: base_140294473758128_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-18 16:55:02,609][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-18 17:15:05,274][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-18 17:15:05,748][__main__][INFO] - Initializing world
+[2023-04-18 17:15:06,141][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-18 17:15:07,188][pybulletX.gui.control_panel][INFO] - name: base_140132881450176_x, low: -0.04, high: 0.005, init_value: -0.015
+[2023-04-18 17:15:07,263][pybulletX.gui.control_panel][INFO] - name: base_140132881450176_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-18 17:15:07,348][pybulletX.gui.control_panel][INFO] - name: base_140132881450176_z, low: 0.02, high: 0.03, init_value: 0.04
+[2023-04-18 17:15:07,429][pybulletX.gui.control_panel][INFO] - name: base_140132881450176_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-18 17:15:07,510][pybulletX.gui.control_panel][INFO] - name: base_140132881450176_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-18 17:15:07,593][pybulletX.gui.control_panel][INFO] - name: base_140132881450176_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-18 17:15:07,676][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-18 17:15:52,488][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-18 17:15:53,020][__main__][INFO] - Initializing world
+[2023-04-18 17:15:53,407][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-18 17:15:54,485][pybulletX.gui.control_panel][INFO] - name: base_140022431126960_x, low: -0.04, high: 0.005, init_value: -0.015
+[2023-04-18 17:15:54,568][pybulletX.gui.control_panel][INFO] - name: base_140022431126960_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-18 17:15:54,652][pybulletX.gui.control_panel][INFO] - name: base_140022431126960_z, low: 0.02, high: 0.03, init_value: 0.04
+[2023-04-18 17:15:54,769][pybulletX.gui.control_panel][INFO] - name: base_140022431126960_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-18 17:15:54,866][pybulletX.gui.control_panel][INFO] - name: base_140022431126960_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-18 17:15:54,988][pybulletX.gui.control_panel][INFO] - name: base_140022431126960_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-18 17:15:55,071][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-18 17:16:39,145][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-18 17:16:39,585][__main__][INFO] - Initializing world
+[2023-04-18 17:16:39,941][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-18 17:16:40,916][pybulletX.gui.control_panel][INFO] - name: base_140403027527088_x, low: -0.04, high: 0.005, init_value: -0.015
+[2023-04-18 17:16:41,036][pybulletX.gui.control_panel][INFO] - name: base_140403027527088_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-18 17:16:41,110][pybulletX.gui.control_panel][INFO] - name: base_140403027527088_z, low: 0.02, high: 0.03, init_value: 0.04
+[2023-04-18 17:16:41,181][pybulletX.gui.control_panel][INFO] - name: base_140403027527088_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-18 17:16:41,267][pybulletX.gui.control_panel][INFO] - name: base_140403027527088_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-18 17:16:41,339][pybulletX.gui.control_panel][INFO] - name: base_140403027527088_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-18 17:16:41,410][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-19 10:53:34,080][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 10:53:34,552][__main__][INFO] - Initializing world
+[2023-04-19 10:53:35,028][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 10:53:36,138][pybulletX.gui.control_panel][INFO] - name: base_140619862209728_x, low: -0.04, high: 0.005, init_value: -0.015
+[2023-04-19 10:53:36,201][pybulletX.gui.control_panel][INFO] - name: base_140619862209728_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-19 10:53:36,277][pybulletX.gui.control_panel][INFO] - name: base_140619862209728_z, low: 0.02, high: 0.03, init_value: 0.04
+[2023-04-19 10:53:36,354][pybulletX.gui.control_panel][INFO] - name: base_140619862209728_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 10:53:36,429][pybulletX.gui.control_panel][INFO] - name: base_140619862209728_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-19 10:53:36,504][pybulletX.gui.control_panel][INFO] - name: base_140619862209728_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 10:53:36,583][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-19 10:57:45,022][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 10:57:45,552][__main__][INFO] - Initializing world
+[2023-04-19 10:57:45,936][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 10:57:46,977][pybulletX.gui.control_panel][INFO] - name: base_140111908893888_x, low: -0.04, high: 0.005, init_value: -0.015
+[2023-04-19 10:57:47,047][pybulletX.gui.control_panel][INFO] - name: base_140111908893888_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-19 10:57:47,157][pybulletX.gui.control_panel][INFO] - name: base_140111908893888_z, low: 0.02, high: 0.03, init_value: 0.06
+[2023-04-19 10:57:47,239][pybulletX.gui.control_panel][INFO] - name: base_140111908893888_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 10:57:47,308][pybulletX.gui.control_panel][INFO] - name: base_140111908893888_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-19 10:57:47,398][pybulletX.gui.control_panel][INFO] - name: base_140111908893888_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 10:57:47,482][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-19 10:58:54,830][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 10:58:55,355][__main__][INFO] - Initializing world
+[2023-04-19 10:58:55,964][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 10:58:57,910][pybulletX.gui.control_panel][INFO] - name: base_140012813923232_x, low: -0.04, high: 0.005, init_value: -0.015
+[2023-04-19 10:58:57,979][pybulletX.gui.control_panel][INFO] - name: base_140012813923232_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-19 10:58:58,056][pybulletX.gui.control_panel][INFO] - name: base_140012813923232_z, low: 0.02, high: 0.03, init_value: 0.06
+[2023-04-19 10:58:58,151][pybulletX.gui.control_panel][INFO] - name: base_140012813923232_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 10:58:58,225][pybulletX.gui.control_panel][INFO] - name: base_140012813923232_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-19 10:58:58,298][pybulletX.gui.control_panel][INFO] - name: base_140012813923232_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 10:58:58,368][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-19 11:09:00,509][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 11:09:00,934][__main__][INFO] - Initializing world
+[2023-04-19 11:09:01,313][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 11:09:02,228][pybulletX.gui.control_panel][INFO] - name: base_139848371901872_x, low: -0.04, high: 0.005, init_value: -0.015
+[2023-04-19 11:09:02,296][pybulletX.gui.control_panel][INFO] - name: base_139848371901872_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-19 11:09:02,360][pybulletX.gui.control_panel][INFO] - name: base_139848371901872_z, low: 0.02, high: 0.03, init_value: 0.06
+[2023-04-19 11:09:02,426][pybulletX.gui.control_panel][INFO] - name: base_139848371901872_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 11:09:02,504][pybulletX.gui.control_panel][INFO] - name: base_139848371901872_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-19 11:09:02,581][pybulletX.gui.control_panel][INFO] - name: base_139848371901872_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 11:09:02,656][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-19 11:09:25,423][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 11:09:25,876][__main__][INFO] - Initializing world
+[2023-04-19 11:09:26,250][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 11:09:27,371][pybulletX.gui.control_panel][INFO] - name: base_139911129007248_x, low: -0.04, high: 0.005, init_value: -0.015
+[2023-04-19 11:09:27,441][pybulletX.gui.control_panel][INFO] - name: base_139911129007248_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-19 11:09:27,528][pybulletX.gui.control_panel][INFO] - name: base_139911129007248_z, low: 0.02, high: 0.03, init_value: 0.06
+[2023-04-19 11:09:27,605][pybulletX.gui.control_panel][INFO] - name: base_139911129007248_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 11:09:27,698][pybulletX.gui.control_panel][INFO] - name: base_139911129007248_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-19 11:09:27,769][pybulletX.gui.control_panel][INFO] - name: base_139911129007248_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 11:09:27,849][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-19 11:11:30,523][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 11:11:30,948][__main__][INFO] - Initializing world
+[2023-04-19 11:11:31,302][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 11:11:32,207][pybulletX.gui.control_panel][INFO] - name: base_140122399978928_x, low: -0.04, high: 0.005, init_value: -0.015
+[2023-04-19 11:11:32,273][pybulletX.gui.control_panel][INFO] - name: base_140122399978928_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-19 11:11:32,336][pybulletX.gui.control_panel][INFO] - name: base_140122399978928_z, low: 0.02, high: 0.03, init_value: 0.06
+[2023-04-19 11:11:32,412][pybulletX.gui.control_panel][INFO] - name: base_140122399978928_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 11:11:32,521][pybulletX.gui.control_panel][INFO] - name: base_140122399978928_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-19 11:11:32,605][pybulletX.gui.control_panel][INFO] - name: base_140122399978928_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 11:11:32,677][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-19 12:49:36,786][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 12:49:37,301][__main__][INFO] - Initializing world
+[2023-04-19 12:49:37,917][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 12:49:39,922][pybulletX.gui.control_panel][INFO] - name: base_140081451185344_x, low: -0.04, high: 0.005, init_value: -0.015
+[2023-04-19 12:49:39,999][pybulletX.gui.control_panel][INFO] - name: base_140081451185344_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-19 12:49:40,086][pybulletX.gui.control_panel][INFO] - name: base_140081451185344_z, low: 0.02, high: 0.03, init_value: 0.06
+[2023-04-19 12:49:40,165][pybulletX.gui.control_panel][INFO] - name: base_140081451185344_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 12:49:40,252][pybulletX.gui.control_panel][INFO] - name: base_140081451185344_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-19 12:49:40,336][pybulletX.gui.control_panel][INFO] - name: base_140081451185344_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 12:49:40,421][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-19 12:52:18,893][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 12:52:19,318][__main__][INFO] - Initializing world
+[2023-04-19 12:52:19,841][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 12:52:21,513][pybulletX.gui.control_panel][INFO] - name: base_139664872137872_x, low: -0.04, high: 0.005, init_value: -0.015
+[2023-04-19 12:52:21,584][pybulletX.gui.control_panel][INFO] - name: base_139664872137872_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-19 12:52:21,653][pybulletX.gui.control_panel][INFO] - name: base_139664872137872_z, low: 0.02, high: 0.03, init_value: 0.06
+[2023-04-19 12:52:21,729][pybulletX.gui.control_panel][INFO] - name: base_139664872137872_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 12:52:21,799][pybulletX.gui.control_panel][INFO] - name: base_139664872137872_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-19 12:52:21,867][pybulletX.gui.control_panel][INFO] - name: base_139664872137872_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 12:52:21,945][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-19 12:53:53,132][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 12:53:53,602][__main__][INFO] - Initializing world
+[2023-04-19 12:53:54,217][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 12:53:55,968][pybulletX.gui.control_panel][INFO] - name: base_140336070575296_x, low: -0.04, high: 0.005, init_value: -0.015
+[2023-04-19 12:53:56,041][pybulletX.gui.control_panel][INFO] - name: base_140336070575296_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-19 12:53:56,114][pybulletX.gui.control_panel][INFO] - name: base_140336070575296_z, low: 0.02, high: 0.03, init_value: 0.06
+[2023-04-19 12:53:56,187][pybulletX.gui.control_panel][INFO] - name: base_140336070575296_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 12:53:56,258][pybulletX.gui.control_panel][INFO] - name: base_140336070575296_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-19 12:53:56,341][pybulletX.gui.control_panel][INFO] - name: base_140336070575296_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 12:53:56,409][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-19 12:55:25,691][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 12:55:26,172][__main__][INFO] - Initializing world
+[2023-04-19 12:55:26,528][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 12:55:27,583][pybulletX.gui.control_panel][INFO] - name: base_139808989698992_x, low: -0.04, high: 0.005, init_value: -0.015
+[2023-04-19 12:55:27,655][pybulletX.gui.control_panel][INFO] - name: base_139808989698992_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-19 12:55:27,720][pybulletX.gui.control_panel][INFO] - name: base_139808989698992_z, low: 0.02, high: 0.03, init_value: 0.06
+[2023-04-19 12:55:27,794][pybulletX.gui.control_panel][INFO] - name: base_139808989698992_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 12:55:27,861][pybulletX.gui.control_panel][INFO] - name: base_139808989698992_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-19 12:55:27,931][pybulletX.gui.control_panel][INFO] - name: base_139808989698992_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 12:55:28,018][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-19 12:59:08,346][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 12:59:08,764][__main__][INFO] - Initializing world
+[2023-04-19 12:59:09,273][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 12:59:11,050][pybulletX.gui.control_panel][INFO] - name: base_140500087203008_x, low: -0.04, high: 0.005, init_value: -0.015
+[2023-04-19 12:59:11,154][pybulletX.gui.control_panel][INFO] - name: base_140500087203008_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-19 12:59:11,242][pybulletX.gui.control_panel][INFO] - name: base_140500087203008_z, low: 0.02, high: 0.03, init_value: 0.06
+[2023-04-19 12:59:11,370][pybulletX.gui.control_panel][INFO] - name: base_140500087203008_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 12:59:11,499][pybulletX.gui.control_panel][INFO] - name: base_140500087203008_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-19 12:59:11,575][pybulletX.gui.control_panel][INFO] - name: base_140500087203008_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 12:59:11,651][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-19 13:16:27,264][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 13:16:28,034][__main__][INFO] - Initializing world
+[2023-04-19 13:16:28,545][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 13:16:30,766][pybulletX.gui.control_panel][INFO] - name: base_139653863908544_x, low: -0.04, high: 0.005, init_value: -0.015
+[2023-04-19 13:16:30,839][pybulletX.gui.control_panel][INFO] - name: base_139653863908544_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-19 13:16:30,912][pybulletX.gui.control_panel][INFO] - name: base_139653863908544_z, low: 0.02, high: 0.03, init_value: 0.06
+[2023-04-19 13:16:30,993][pybulletX.gui.control_panel][INFO] - name: base_139653863908544_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 13:16:31,066][pybulletX.gui.control_panel][INFO] - name: base_139653863908544_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-19 13:16:31,157][pybulletX.gui.control_panel][INFO] - name: base_139653863908544_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 13:16:31,332][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-19 13:18:10,328][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 13:18:10,712][__main__][INFO] - Initializing world
+[2023-04-19 13:18:11,060][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 13:18:12,089][pybulletX.gui.control_panel][INFO] - name: base_140463519888576_x, low: -0.04, high: 0.005, init_value: 0.0
+[2023-04-19 13:18:12,155][pybulletX.gui.control_panel][INFO] - name: base_140463519888576_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-19 13:18:12,224][pybulletX.gui.control_panel][INFO] - name: base_140463519888576_z, low: 0.02, high: 0.03, init_value: 0.06
+[2023-04-19 13:18:12,290][pybulletX.gui.control_panel][INFO] - name: base_140463519888576_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 13:18:12,362][pybulletX.gui.control_panel][INFO] - name: base_140463519888576_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-19 13:18:12,428][pybulletX.gui.control_panel][INFO] - name: base_140463519888576_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 13:18:12,543][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-19 13:56:55,431][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 13:56:55,854][__main__][INFO] - Initializing world
+[2023-04-19 13:56:56,209][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 13:56:57,316][pybulletX.gui.control_panel][INFO] - name: base_140051097689152_x, low: -0.04, high: 0.005, init_value: 0.0
+[2023-04-19 13:56:57,386][pybulletX.gui.control_panel][INFO] - name: base_140051097689152_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-19 13:56:57,461][pybulletX.gui.control_panel][INFO] - name: base_140051097689152_z, low: 0.02, high: 0.03, init_value: 0.06
+[2023-04-19 13:56:57,533][pybulletX.gui.control_panel][INFO] - name: base_140051097689152_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 13:56:57,602][pybulletX.gui.control_panel][INFO] - name: base_140051097689152_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-19 13:56:57,671][pybulletX.gui.control_panel][INFO] - name: base_140051097689152_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 13:56:57,735][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-19 14:00:19,753][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 14:00:20,163][__main__][INFO] - Initializing world
+[2023-04-19 14:00:20,592][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 14:00:21,569][pybulletX.gui.control_panel][INFO] - name: base_140687334794048_x, low: -0.04, high: 0.005, init_value: 0.0
+[2023-04-19 14:00:21,636][pybulletX.gui.control_panel][INFO] - name: base_140687334794048_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-19 14:00:21,705][pybulletX.gui.control_panel][INFO] - name: base_140687334794048_z, low: 0.02, high: 0.03, init_value: 0.06
+[2023-04-19 14:00:21,777][pybulletX.gui.control_panel][INFO] - name: base_140687334794048_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 14:00:21,854][pybulletX.gui.control_panel][INFO] - name: base_140687334794048_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-19 14:00:21,942][pybulletX.gui.control_panel][INFO] - name: base_140687334794048_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 14:00:22,012][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-19 14:05:49,711][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 14:05:50,137][__main__][INFO] - Initializing world
+[2023-04-19 14:05:50,569][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 14:05:52,052][pybulletX.gui.control_panel][INFO] - name: base_139798383172720_x, low: -0.04, high: 0.005, init_value: 0.0
+[2023-04-19 14:05:52,121][pybulletX.gui.control_panel][INFO] - name: base_139798383172720_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-19 14:05:52,197][pybulletX.gui.control_panel][INFO] - name: base_139798383172720_z, low: 0.02, high: 0.03, init_value: 0.06
+[2023-04-19 14:05:52,272][pybulletX.gui.control_panel][INFO] - name: base_139798383172720_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 14:05:52,352][pybulletX.gui.control_panel][INFO] - name: base_139798383172720_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-19 14:05:52,431][pybulletX.gui.control_panel][INFO] - name: base_139798383172720_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 14:05:52,534][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-19 14:06:33,335][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 14:06:33,762][__main__][INFO] - Initializing world
+[2023-04-19 14:06:34,144][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 14:06:35,495][pybulletX.gui.control_panel][INFO] - name: base_140077486286016_x, low: -0.04, high: 0.005, init_value: 0.0
+[2023-04-19 14:06:35,559][pybulletX.gui.control_panel][INFO] - name: base_140077486286016_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-19 14:06:35,633][pybulletX.gui.control_panel][INFO] - name: base_140077486286016_z, low: 0.02, high: 0.03, init_value: 0.06
+[2023-04-19 14:06:35,707][pybulletX.gui.control_panel][INFO] - name: base_140077486286016_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 14:06:35,783][pybulletX.gui.control_panel][INFO] - name: base_140077486286016_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-19 14:06:35,860][pybulletX.gui.control_panel][INFO] - name: base_140077486286016_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 14:06:35,935][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-19 14:08:10,138][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 14:08:10,673][__main__][INFO] - Initializing world
+[2023-04-19 14:08:11,209][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 14:08:12,375][pybulletX.gui.control_panel][INFO] - name: base_139717074883824_x, low: -0.04, high: 0.005, init_value: 0.0
+[2023-04-19 14:08:12,448][pybulletX.gui.control_panel][INFO] - name: base_139717074883824_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-19 14:08:12,531][pybulletX.gui.control_panel][INFO] - name: base_139717074883824_z, low: 0.02, high: 0.03, init_value: 0.06
+[2023-04-19 14:08:12,601][pybulletX.gui.control_panel][INFO] - name: base_139717074883824_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 14:08:12,692][pybulletX.gui.control_panel][INFO] - name: base_139717074883824_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-19 14:08:12,768][pybulletX.gui.control_panel][INFO] - name: base_139717074883824_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 14:08:12,841][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-19 14:21:58,388][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 14:21:58,784][__main__][INFO] - Initializing world
+[2023-04-19 14:21:59,131][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 14:22:00,814][pybulletX.gui.control_panel][INFO] - name: base_140509512045760_x, low: -0.04, high: 0.005, init_value: 0.0
+[2023-04-19 14:22:00,882][pybulletX.gui.control_panel][INFO] - name: base_140509512045760_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-19 14:22:00,951][pybulletX.gui.control_panel][INFO] - name: base_140509512045760_z, low: 0.02, high: 0.03, init_value: 0.06
+[2023-04-19 14:22:01,022][pybulletX.gui.control_panel][INFO] - name: base_140509512045760_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 14:22:01,097][pybulletX.gui.control_panel][INFO] - name: base_140509512045760_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-19 14:22:01,171][pybulletX.gui.control_panel][INFO] - name: base_140509512045760_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 14:22:01,244][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-19 14:33:01,992][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 14:33:02,369][__main__][INFO] - Initializing world
+[2023-04-19 14:33:02,735][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 14:33:03,723][pybulletX.gui.control_panel][INFO] - name: base_140063809566032_x, low: -0.04, high: 0.005, init_value: 0.0
+[2023-04-19 14:33:03,792][pybulletX.gui.control_panel][INFO] - name: base_140063809566032_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-19 14:33:03,860][pybulletX.gui.control_panel][INFO] - name: base_140063809566032_z, low: 0.02, high: 0.03, init_value: 0.06
+[2023-04-19 14:33:03,930][pybulletX.gui.control_panel][INFO] - name: base_140063809566032_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 14:33:04,006][pybulletX.gui.control_panel][INFO] - name: base_140063809566032_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-19 14:33:04,076][pybulletX.gui.control_panel][INFO] - name: base_140063809566032_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 14:33:04,149][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-19 14:35:13,928][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 14:35:14,462][__main__][INFO] - Initializing world
+[2023-04-19 14:35:14,991][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 14:35:16,610][pybulletX.gui.control_panel][INFO] - name: base_139679858992368_x, low: -0.04, high: 0.005, init_value: 0.0
+[2023-04-19 14:35:16,709][pybulletX.gui.control_panel][INFO] - name: base_139679858992368_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-19 14:35:16,812][pybulletX.gui.control_panel][INFO] - name: base_139679858992368_z, low: 0.02, high: 0.03, init_value: 0.06
+[2023-04-19 14:35:16,915][pybulletX.gui.control_panel][INFO] - name: base_139679858992368_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 14:35:16,993][pybulletX.gui.control_panel][INFO] - name: base_139679858992368_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-19 14:35:17,064][pybulletX.gui.control_panel][INFO] - name: base_139679858992368_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 14:35:17,134][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-19 14:37:27,461][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 14:37:27,881][__main__][INFO] - Initializing world
+[2023-04-19 14:37:28,256][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 14:37:29,448][pybulletX.gui.control_panel][INFO] - name: base_139877200614592_x, low: -0.04, high: 0.005, init_value: 0.0
+[2023-04-19 14:37:29,549][pybulletX.gui.control_panel][INFO] - name: base_139877200614592_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-19 14:37:29,649][pybulletX.gui.control_panel][INFO] - name: base_139877200614592_z, low: 0.02, high: 0.03, init_value: 0.06
+[2023-04-19 14:37:29,720][pybulletX.gui.control_panel][INFO] - name: base_139877200614592_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 14:37:29,808][pybulletX.gui.control_panel][INFO] - name: base_139877200614592_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-19 14:37:29,932][pybulletX.gui.control_panel][INFO] - name: base_139877200614592_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 14:37:30,025][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-19 14:38:26,215][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 14:38:26,637][__main__][INFO] - Initializing world
+[2023-04-19 14:38:26,975][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 14:38:27,943][pybulletX.gui.control_panel][INFO] - name: base_140304251557104_x, low: -0.04, high: 0.005, init_value: 0.0
+[2023-04-19 14:38:28,008][pybulletX.gui.control_panel][INFO] - name: base_140304251557104_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-19 14:38:28,078][pybulletX.gui.control_panel][INFO] - name: base_140304251557104_z, low: 0.02, high: 0.03, init_value: 0.06
+[2023-04-19 14:38:28,149][pybulletX.gui.control_panel][INFO] - name: base_140304251557104_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 14:38:28,233][pybulletX.gui.control_panel][INFO] - name: base_140304251557104_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-19 14:38:28,323][pybulletX.gui.control_panel][INFO] - name: base_140304251557104_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 14:38:28,394][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-19 15:59:57,477][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 15:59:57,953][__main__][INFO] - Initializing world
+[2023-04-19 15:59:58,312][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 15:59:59,247][pybulletX.gui.control_panel][INFO] - name: base_140314546266944_x, low: -0.04, high: 0.005, init_value: 0.0
+[2023-04-19 15:59:59,317][pybulletX.gui.control_panel][INFO] - name: base_140314546266944_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-19 15:59:59,423][pybulletX.gui.control_panel][INFO] - name: base_140314546266944_z, low: 0.02, high: 0.03, init_value: 0.06
+[2023-04-19 15:59:59,494][pybulletX.gui.control_panel][INFO] - name: base_140314546266944_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 15:59:59,571][pybulletX.gui.control_panel][INFO] - name: base_140314546266944_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-19 15:59:59,647][pybulletX.gui.control_panel][INFO] - name: base_140314546266944_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 16:00:13,915][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 16:00:14,354][__main__][INFO] - Initializing world
+[2023-04-19 16:00:14,704][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 16:00:15,714][pybulletX.gui.control_panel][INFO] - name: base_139705133495632_x, low: -0.04, high: 0.005, init_value: 0.0
+[2023-04-19 16:00:15,803][pybulletX.gui.control_panel][INFO] - name: base_139705133495632_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-19 16:00:15,872][pybulletX.gui.control_panel][INFO] - name: base_139705133495632_z, low: 0.02, high: 0.03, init_value: 0.06
+[2023-04-19 16:00:15,943][pybulletX.gui.control_panel][INFO] - name: base_139705133495632_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 16:00:16,032][pybulletX.gui.control_panel][INFO] - name: base_139705133495632_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-19 16:00:16,111][pybulletX.gui.control_panel][INFO] - name: base_139705133495632_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 16:00:16,182][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-19 16:00:53,332][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 16:00:53,954][__main__][INFO] - Initializing world
+[2023-04-19 16:00:54,625][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 16:00:56,630][pybulletX.gui.control_panel][INFO] - name: base_140055677379920_x, low: -0.04, high: 0.005, init_value: 0.0
+[2023-04-19 16:00:56,705][pybulletX.gui.control_panel][INFO] - name: base_140055677379920_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-19 16:00:56,781][pybulletX.gui.control_panel][INFO] - name: base_140055677379920_z, low: 0.02, high: 0.03, init_value: 0.06
+[2023-04-19 16:00:56,858][pybulletX.gui.control_panel][INFO] - name: base_140055677379920_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 16:00:56,935][pybulletX.gui.control_panel][INFO] - name: base_140055677379920_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-19 16:00:57,069][pybulletX.gui.control_panel][INFO] - name: base_140055677379920_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 16:00:57,168][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-19 16:00:58,345][__main__][INFO] - object id: 2_-1, object pose: ((0.0, 0.0, 0.029999999329447753), (0.0, -0.0, 0.0))
+[2023-04-19 16:00:59,349][__main__][INFO] - object id: 2_-1, object pose: ((0.0, 0.0, 0.02979174958128252), (0.0, -0.0, 0.0))
+[2023-04-19 16:01:00,386][__main__][INFO] - object id: 2_-1, object pose: ((5.146456019957685e-09, 9.87983206706078e-10, 0.027622414420229575), (2.0685909834126643e-06, -2.5965678085978254e-08, 9.615082799460609e-06))
+[2023-04-19 16:01:01,391][__main__][INFO] - object id: 2_-1, object pose: ((1.0043258229341562e-13, 1.726805555983339e-14, 0.02762264211959748), (2.2005916295274946e-06, -7.327444229343689e-07, 9.575763699355914e-06))
+[2023-04-19 16:01:02,417][__main__][INFO] - object id: 2_-1, object pose: ((1.00311002443697e-13, 1.7234904387156205e-14, 0.02762264211959787), (2.2007463531680453e-06, -7.338689210670355e-07, 9.505523186488461e-06))
+[2023-04-19 16:01:03,465][__main__][INFO] - object id: 2_-1, object pose: ((1.0018703469982612e-13, 1.7200937877088965e-14, 0.027622642119597893), (2.2009042456064527e-06, -7.350164485743752e-07, 9.433844165902712e-06))
+[2023-04-19 16:01:04,467][__main__][INFO] - object id: 2_-1, object pose: ((1.0006551769784284e-13, 1.7167514853293477e-14, 0.027622642119597918), (2.2010589911487004e-06, -7.361411044117535e-07, 9.363593798069578e-06))
+[2023-04-19 16:01:05,481][__main__][INFO] - object id: 2_-1, object pose: ((9.994545977859405e-14, 1.7134369854383586e-14, 0.027622642119597942), (2.201211852491363e-06, -7.37252065613422e-07, 9.294198849822477e-06))
+[2023-04-19 16:01:06,503][__main__][INFO] - object id: 2_-1, object pose: ((9.982338805434029e-14, 1.7100543614377303e-14, 0.027622642119597963), (2.2013672513103792e-06, -7.383814679032407e-07, 9.223651999136758e-06))
+[2023-04-19 16:01:07,527][__main__][INFO] - object id: 2_-1, object pose: ((9.970277621559012e-14, 1.7066996848589643e-14, 0.027622642119597987), (2.201520765755405e-06, -7.394971742987559e-07, 9.153960646673568e-06))
+[2023-04-19 16:01:08,552][__main__][INFO] - object id: 2_-1, object pose: ((9.95796526686304e-14, 1.7032623511350044e-14, 0.02762264211959801), (2.201677449933194e-06, -7.406359168389935e-07, 9.082830366661128e-06))
+[2023-04-19 16:01:09,581][__main__][INFO] - object id: 2_-1, object pose: ((9.94564994367617e-14, 1.6998113150636757e-14, 0.027622642119598036), (2.2018341452240876e-06, -7.417747394151108e-07, 9.011695086787565e-06))
+[2023-04-19 16:01:10,599][__main__][INFO] - object id: 2_-1, object pose: ((9.933629645020358e-14, 1.6964305093704962e-14, 0.02762264211959806), (2.2019870602128974e-06, -7.428860869922295e-07, 8.942276001526123e-06))
+[2023-04-19 16:01:11,624][__main__][INFO] - object id: 2_-1, object pose: ((9.921308374652261e-14, 1.692952241471634e-14, 0.027622642119598084), (2.2021437774625896e-06, -7.440250677204961e-07, 8.871130841831625e-06))
+[2023-04-19 16:01:12,629][__main__][INFO] - object id: 2_-1, object pose: ((9.909332005585376e-14, 1.6895590040680176e-14, 0.02762264211959811), (2.2022960818900137e-06, -7.451319764945144e-07, 8.801989020451861e-06))
+[2023-04-19 16:01:13,637][__main__][INFO] - object id: 2_-1, object pose: ((9.89730314180752e-14, 1.686138612336835e-14, 0.027622642119598133), (2.202449028848249e-06, -7.462435543253438e-07, 8.732555551168705e-06))
+[2023-04-19 16:01:14,668][__main__][INFO] - object id: 2_-1, object pose: ((9.8851221524595e-14, 1.682662583809179e-14, 0.027622642119598154), (2.202603882627287e-06, -7.473689897066815e-07, 8.662256484917058e-06))
+[2023-04-19 16:01:15,706][__main__][INFO] - object id: 2_-1, object pose: ((9.872689639854476e-14, 1.679101542881872e-14, 0.027622642119598178), (2.202761907870841e-06, -7.485174737103041e-07, 8.59051771166996e-06))
+[2023-04-19 16:01:16,720][__main__][INFO] - object id: 2_-1, object pose: ((9.860552532974195e-14, 1.6756126946344277e-14, 0.027622642119598202), (2.202916151403264e-06, -7.496384725644488e-07, 8.520495767148913e-06))
+[2023-04-19 16:01:17,729][__main__][INFO] - object id: 2_-1, object pose: ((9.848462243873163e-14, 1.6721248511098048e-14, 0.027622642119598226), (2.2030697734883196e-06, -7.507549542038377e-07, 8.450755984897957e-06))
+[2023-04-19 16:01:18,742][__main__][INFO] - object id: 2_-1, object pose: ((9.836418887263931e-14, 1.668638235704954e-14, 0.02762264211959825), (2.203222773993221e-06, -7.518669176851794e-07, 8.381298423875531e-06))
+[2023-04-19 16:01:19,779][__main__][INFO] - object id: 2_-1, object pose: ((9.82397440069777e-14, 1.6650225898450798e-14, 0.027622642119598275), (2.2033808434862533e-06, -7.530157203775589e-07, 8.309539742027852e-06))
+[2023-04-19 16:01:20,799][__main__][INFO] - object id: 2_-1, object pose: ((9.811825574817267e-14, 1.6614802051234214e-14, 0.0276226421195983), (2.2035351302092395e-06, -7.541370302938981e-07, 8.239498365313166e-06))
+[2023-04-19 16:01:21,803][__main__][INFO] - object id: 2_-1, object pose: ((9.799873182638979e-14, 1.6579829622480708e-14, 0.027622642119598324), (2.2036868981451504e-06, -7.552400337260234e-07, 8.170600482329824e-06))
+[2023-04-19 16:01:22,846][__main__][INFO] - object id: 2_-1, object pose: ((9.787369878782802e-14, 1.654311452808921e-14, 0.027622642119598344), (2.203845633255069e-06, -7.563936717431172e-07, 8.098539765727185e-06))
+[2023-04-19 16:01:23,848][__main__][INFO] - object id: 2_-1, object pose: ((9.775361844976774e-14, 1.6507730539071043e-14, 0.027622642119598372), (2.203998054979696e-06, -7.575014253131417e-07, 8.029345169638674e-06))
+[2023-04-19 16:01:24,882][__main__][INFO] - object id: 2_-1, object pose: ((9.762952242099566e-14, 1.6471033764374046e-14, 0.027622642119598396), (2.2041555473808288e-06, -7.586460302571428e-07, 7.957848692886187e-06))
+[2023-04-19 16:01:25,927][__main__][INFO] - object id: 2_-1, object pose: ((9.750589431509359e-14, 1.643434685731645e-14, 0.02762264211959842), (2.204312418430938e-06, -7.597861186828108e-07, 7.886634334907886e-06))
+[2023-04-19 16:01:26,956][__main__][INFO] - object id: 2_-1, object pose: ((9.738173721117264e-14, 1.6397374152856922e-14, 0.027622642119598445), (2.2044699332192726e-06, -7.609308848576466e-07, 7.815127785999901e-06))
+[2023-04-19 16:01:27,983][__main__][INFO] - object id: 2_-1, object pose: ((1.168415404681539e-13, 1.665451364148985e-14, 0.02762264211955428), (2.2046255232204136e-06, -7.620593319071756e-07, 7.744477256841087e-06))
+[2023-04-19 16:01:28,988][__main__][INFO] - object id: 2_-1, object pose: ((2.6600351898726547e-37, 3.764913363429093e-38, 0.02978906423749376), (4.9807215080614476e-30, -1.7217198318764882e-30, 1.7492515539204884e-29))
+[2023-04-19 16:01:29,990][__main__][INFO] - object id: 2_-1, object pose: ((1.1737463291961626e-60, 1.6612762330704458e-61, 0.02994736656546592), (2.197754228625585e-53, -7.597126309693684e-54, 7.718610633692955e-53))
+[2023-04-19 16:01:30,992][__main__][INFO] - object id: 2_-1, object pose: ((6.473976596938462e-84, 9.16302201457253e-85, 0.02994736656546592), (1.212204808486062e-76, -4.190310692313349e-77, 4.2573172209731553e-76))
+[2023-04-19 23:01:27,617][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 23:01:28,096][__main__][INFO] - Initializing world
+[2023-04-19 23:01:28,471][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 23:01:29,851][pybulletX.gui.control_panel][INFO] - name: base_139680106852208_x, low: -0.04, high: 0.005, init_value: 0.0
+[2023-04-19 23:01:29,929][pybulletX.gui.control_panel][INFO] - name: base_139680106852208_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-19 23:01:30,036][pybulletX.gui.control_panel][INFO] - name: base_139680106852208_z, low: 0.02, high: 0.03, init_value: 0.06
+[2023-04-19 23:01:30,124][pybulletX.gui.control_panel][INFO] - name: base_139680106852208_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 23:01:30,206][pybulletX.gui.control_panel][INFO] - name: base_139680106852208_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-19 23:01:30,591][pybulletX.gui.control_panel][INFO] - name: base_139680106852208_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-19 23:01:30,684][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-19 23:01:31,768][__main__][INFO] - object id: 2_-1, object pose: ((0.0, 0.0, 0.05809357638888889), (0.0, -0.0, 0.0))
+[2023-04-19 23:01:32,771][__main__][INFO] - object id: 2_-1, object pose: ((0.0, 0.0, 0.029999999329447753), (0.0, -0.0, 0.0))
+[2023-04-19 23:01:33,773][__main__][INFO] - object id: 2_-1, object pose: ((0.0, 0.0, 0.029999999329447753), (0.0, -0.0, 0.0))
+[2023-04-19 23:01:34,778][__main__][INFO] - object id: 2_-1, object pose: ((0.0, 0.0, 0.029999999329447753), (0.0, -0.0, 0.0))
+[2023-04-19 23:01:35,778][__main__][INFO] - object id: 2_-1, object pose: ((0.0, 0.0, 0.029999999329447753), (0.0, -0.0, 0.0))
+[2023-04-19 23:01:36,783][__main__][INFO] - object id: 2_-1, object pose: ((0.0, 0.0, 0.029999999329447753), (0.0, -0.0, 0.0))
+[2023-04-19 23:01:37,788][__main__][INFO] - object id: 2_-1, object pose: ((0.0, 0.0, 0.029999999329447753), (0.0, -0.0, 0.0))
+[2023-04-19 23:01:38,793][__main__][INFO] - object id: 2_-1, object pose: ((0.0, 0.0, 0.029999999329447753), (0.0, -0.0, 0.0))
+[2023-04-24 14:05:01,257][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-24 14:05:01,830][__main__][INFO] - Initializing world
+[2023-04-24 14:05:02,228][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-24 14:05:03,700][pybulletX.gui.control_panel][INFO] - name: base_140048041785712_x, low: -0.04, high: 0.005, init_value: 0.0
+[2023-04-24 14:05:03,788][pybulletX.gui.control_panel][INFO] - name: base_140048041785712_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-24 14:05:03,903][pybulletX.gui.control_panel][INFO] - name: base_140048041785712_z, low: 0.02, high: 0.03, init_value: 0.06
+[2023-04-24 14:05:04,032][pybulletX.gui.control_panel][INFO] - name: base_140048041785712_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-24 14:05:04,114][pybulletX.gui.control_panel][INFO] - name: base_140048041785712_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-24 14:05:04,216][pybulletX.gui.control_panel][INFO] - name: base_140048041785712_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-24 14:05:04,296][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-24 14:05:21,555][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-24 14:05:22,068][__main__][INFO] - Initializing world
+[2023-04-24 14:05:22,497][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-24 14:05:23,545][pybulletX.gui.control_panel][INFO] - name: base_140200578892608_x, low: -0.04, high: 0.005, init_value: 0.0
+[2023-04-24 14:05:23,618][pybulletX.gui.control_panel][INFO] - name: base_140200578892608_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-24 14:05:23,695][pybulletX.gui.control_panel][INFO] - name: base_140200578892608_z, low: 0.02, high: 0.03, init_value: 0.06
+[2023-04-24 14:05:23,787][pybulletX.gui.control_panel][INFO] - name: base_140200578892608_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-24 14:05:23,894][pybulletX.gui.control_panel][INFO] - name: base_140200578892608_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-24 14:05:24,057][pybulletX.gui.control_panel][INFO] - name: base_140200578892608_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-24 14:05:24,133][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-24 14:05:54,572][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-24 14:05:55,255][__main__][INFO] - Initializing world
+[2023-04-24 14:05:56,005][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-24 14:06:11,273][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-24 14:06:12,002][__main__][INFO] - Initializing world
+[2023-04-24 14:06:12,375][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-24 14:06:14,069][pybulletX.gui.control_panel][INFO] - name: base_139824057299920_x, low: -0.04, high: 0.005, init_value: 0.0
+[2023-04-24 14:06:14,140][pybulletX.gui.control_panel][INFO] - name: base_139824057299920_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-24 14:06:14,220][pybulletX.gui.control_panel][INFO] - name: base_139824057299920_z, low: 0.02, high: 0.03, init_value: 0.06
+[2023-04-24 14:06:14,308][pybulletX.gui.control_panel][INFO] - name: base_139824057299920_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-24 14:06:14,384][pybulletX.gui.control_panel][INFO] - name: base_139824057299920_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-24 14:06:14,463][pybulletX.gui.control_panel][INFO] - name: base_139824057299920_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-24 14:06:14,546][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-24 14:06:15,574][__main__][INFO] - object id: 2_-1, object pose: ((0.0, 0.0, 0.029999999329447753), (0.0, -0.0, 0.0))
+[2023-04-24 14:06:16,582][__main__][INFO] - object id: 2_-1, object pose: ((0.0, 0.0, 0.029999999329447753), (0.0, -0.0, 0.0))
+[2023-04-24 14:06:17,588][__main__][INFO] - object id: 2_-1, object pose: ((0.0, 0.0, 0.029999999329447753), (0.0, -0.0, 0.0))
+[2023-04-24 14:06:18,658][__main__][INFO] - object id: 2_-1, object pose: ((0.0, 0.0, 0.029999999329447753), (0.0, -0.0, 0.0))
+[2023-04-24 14:06:19,664][__main__][INFO] - object id: 2_-1, object pose: ((0.0, 0.0, 0.029999999329447753), (0.0, -0.0, 0.0))
+[2023-04-24 14:06:20,669][__main__][INFO] - object id: 2_-1, object pose: ((0.0, 0.0, 0.029999999329447753), (0.0, -0.0, 0.0))
+[2023-04-24 14:06:21,675][__main__][INFO] - object id: 2_-1, object pose: ((0.0, 0.0, 0.029893843654394153), (0.0, -0.0, 0.0))
+[2023-04-24 14:06:22,687][__main__][INFO] - object id: 2_-1, object pose: ((1.4411543857762374e-13, -1.0738538342455325e-12, 0.027623567886176228), (-2.529761129414695e-06, -1.2909206682304095e-06, -1.2457216480447525e-05))
+[2023-04-24 14:06:23,713][__main__][INFO] - object id: 2_-1, object pose: ((1.7803778631240727e-13, -1.0880205843938336e-12, 0.02762356797476332), (-2.5485630935472996e-06, -1.2929526306805336e-06, -1.2550448430768586e-05))
+[2023-04-24 14:06:24,731][__main__][INFO] - object id: 2_-1, object pose: ((1.7956618366975141e-13, -1.0961685098948957e-12, 0.02762356797476442), (-2.567429099867265e-06, -1.2950054550575263e-06, -1.2643993758390128e-05))
+[2023-04-24 14:06:25,774][__main__][INFO] - object id: 2_-1, object pose: ((1.8115980763245215e-13, -1.1046477800114684e-12, 0.02762356797476557), (-2.5870615991543365e-06, -1.2971416836068755e-06, -1.2741339670831559e-05))
+[2023-04-24 14:06:26,811][__main__][INFO] - object id: 2_-1, object pose: ((-1.26836355258256e-07, 2.5407083938450656e-09, 0.027595574720170896), (-2.0139709845883837e-06, -2.1161127554581487e-05, -7.82066126385614e-06))
+[2023-04-24 14:06:27,818][__main__][INFO] - object id: 2_-1, object pose: ((-3.0397174953434993e-31, 5.868487257694055e-33, 0.027894735336302975), (-3.669485909384449e-30, -5.108448908890416e-29, -1.3404427987123953e-29))
+[2023-04-24 14:06:28,823][__main__][INFO] - object id: 2_-1, object pose: ((-1.3412819745905642e-54, 0.00021019969560918348, 0.027894735336303704), (-1.6191686608413709e-53, -2.2541142228209802e-52, -5.914733085021418e-53))
+[2023-04-24 14:06:29,832][__main__][INFO] - object id: 2_-1, object pose: ((-4.734748773509334e-78, 0.0017181346417211817, 0.027894735336303704), (-5.7156936246486365e-77, -7.957062537211444e-76, -2.087911099266721e-76))
+[2023-04-24 14:06:30,838][__main__][INFO] - object id: 2_-1, object pose: ((-2.08921822302609e-101, 0.004000000655649875, 0.027894735336303704), (-2.522062278079259e-100, -3.5110711992811385e-99, -9.212953263860967e-100))
+[2023-04-24 14:06:31,845][__main__][INFO] - object id: 2_-1, object pose: ((-7.374976780766567e-125, 0.004000000655651091, 0.027800775933630367), (-8.902923847534057e-124, -1.239414259598537e-122, -3.252188577258712e-123))
+[2023-04-24 14:06:32,865][__main__][INFO] - object id: 2_-1, object pose: ((3.904638386624216e-10, 0.00400000420702647, 0.027458523204000142), (-0.0005143460820092293, 4.49695833686396e-05, 0.00032808828774592673))
+[2023-04-24 14:06:33,876][__main__][INFO] - object id: 2_-1, object pose: ((2.0121698200940913e-11, 0.004000001258969428, 0.027458523868702903), (-0.0004861538770888858, 1.8663683809237814e-05, 0.00021110052502375275))
+[2023-04-24 14:06:34,923][__main__][INFO] - object id: 2_-1, object pose: ((-4.390739102753037e-11, 0.004000000752259865, 0.0274585239830352), (-0.000481311326814661, 1.4145764798117094e-05, 0.00019100701599302067))
+[2023-04-24 14:06:35,955][__main__][INFO] - object id: 2_-1, object pose: ((-5.4155429565045146e-11, 0.004000000671240129, 0.027458524001318506), (-0.0004805371171494849, 1.3423472934604583e-05, 0.00018779457484329528))
+[2023-04-24 14:06:36,963][__main__][INFO] - object id: 2_-1, object pose: ((6.1977029524596204e-21, 0.004000000655651094, 0.02810526266338873), (-8.283549004402313e-17, -5.470581696441894e-17, -2.309578046664574e-16))
+[2023-04-24 14:06:37,972][__main__][INFO] - object id: 2_-1, object pose: ((2.1877999562091385e-44, 0.004000000655651094, 0.028105262666940682), (-2.9241072520094557e-40, -1.9311248841256904e-40, -8.152850803133504e-40))
+[2023-04-24 14:06:38,977][__main__][INFO] - object id: 2_-1, object pose: ((7.722972018994784e-68, -0.0006315770068141926, 0.028105262666940682), (-1.0322149620543267e-63, -6.816904535974656e-64, -2.8779705589143106e-63))
+[2023-04-24 14:06:39,985][__main__][INFO] - object id: 2_-1, object pose: ((2.7262225980442786e-91, -0.0037894733250140315, 0.028105262666940682), (-3.643736826536104e-87, -2.4063791955967193e-87, -1.0159286288906599e-86))
+[2023-04-24 14:06:40,994][__main__][INFO] - object id: 2_-1, object pose: ((9.62361333927852e-115, -0.0037894733250141135, 0.028105262666940682), (-1.2862454574996388e-110, -8.494560547887714e-111, -3.5862457862981434e-110))
+[2023-04-24 14:06:42,024][__main__][INFO] - object id: 2_-1, object pose: ((5.807550714598108e-10, -0.003789473608352096, 0.027483061383704835), (1.8337262073302063e-05, 2.906925661000171e-05, -0.00015630524450563316))
+[2023-04-24 14:06:43,027][__main__][INFO] - object id: 2_-1, object pose: ((4.242501403801703e-10, -0.003789473532519676, 0.027483061380954476), (1.4041684747643812e-05, 2.12163159236073e-05, -0.0001140811671490696))
+[2023-04-24 14:06:44,032][__main__][INFO] - object id: 2_-1, object pose: ((4.901029931631956e-34, -0.0037894733250141152, 0.02852631546553655), (1.6224508070960056e-29, 2.4509703386224233e-29, -1.317885909751267e-28))
+[2023-04-24 14:06:45,039][__main__][INFO] - object id: 2_-1, object pose: ((1.7300721173719275e-57, -0.0037894733250141152, 0.02852631546556949), (5.727279658195661e-53, 8.651968060811897e-53, -4.652160256403052e-52))
+[2023-04-24 14:06:46,044][__main__][INFO] - object id: 2_-1, object pose: ((7.633980951609689e-81, 0.003156934207407972, 0.02852631546556949), (2.5271746406515823e-76, 3.81769977719225e-76, -2.0527758597234038e-75))
+[2023-04-24 14:06:47,051][__main__][INFO] - object id: 2_-1, object pose: ((2.6948085959823002e-104, 0.0037894050049892707, 0.02852631546556949), (8.920970576616843e-100, 1.3476546826185165e-99, -7.246334602447676e-99))
+[2023-04-24 14:06:48,056][__main__][INFO] - object id: 2_-1, object pose: ((1.1890901704845173e-127, 0.004212912158873, 0.02852631546556949), (3.9363977239986256e-123, 5.946555680051821e-123, -3.197460947934776e-122))
+[2023-04-24 14:06:49,063][__main__][INFO] - object id: 2_-1, object pose: ((5.246886311892193e-151, 0.001894736664944797, 0.02852631546556949), (1.7369440811873954e-146, 2.623930663547179e-146, -1.4108866170925293e-145))
+[2023-04-24 14:06:50,070][__main__][INFO] - object id: 2_-1, object pose: ((1.8521600230673297e-174, 0.0010527378665245, 0.02852631546556949), (6.131442913461019e-170, 9.262521025674664e-170, -4.980454376029882e-169))
+[2023-04-24 14:06:51,079][__main__][INFO] - object id: 2_-1, object pose: ((6.538157198629331e-198, -0.00042027093678693165, 0.02852631546556949), (2.1644100468295554e-193, 3.269686083666688e-193, -1.758109084827221e-192))
+[2023-04-24 14:06:52,086][__main__][INFO] - object id: 2_-1, object pose: ((2.3079808991447286e-221, -0.00042105279862880696, 0.02852631546556949), (7.640405230768684e-217, 1.1542048926085876e-216, -6.206155745604738e-216))
+[2023-04-24 14:06:53,093][__main__][INFO] - object id: 2_-1, object pose: ((8.147212844520814e-245, -0.00042105279862880696, 0.02852631546556949), (2.697076377734749e-240, 4.0743634099199484e-240, -2.1907838069381185e-239))
+[2023-04-24 14:06:54,101][__main__][INFO] - object id: 2_-1, object pose: ((-0.006611974532301534, -0.00042105279862880696, 0.02852631546556949), (9.520726673031392e-264, 1.4382573928079895e-263, -7.73350506413145e-263))
+[2023-04-24 14:06:55,106][__main__][INFO] - object id: 2_-1, object pose: ((-0.004236843436956407, -0.00042105279862880696, 0.02852631546556949), (4.201041409638471e-287, 6.346342114851618e-287, -3.4124259766949745e-286))
+[2023-04-24 14:06:56,112][__main__][INFO] - object id: 2_-1, object pose: ((-0.004236843436956407, -0.00042105279862880696, 0.02852631546556949), (1.853718684682e-310, 2.8003372998638e-310, -1.50574040488158e-309))
+[2023-04-24 14:06:57,116][__main__][INFO] - object id: 2_-1, object pose: ((-0.004236843436956407, -0.00042105279862880696, 0.027846951408153946), (-2.6e-321, 1.47e-321, -3.745e-321))
+[2023-04-24 14:06:58,135][__main__][INFO] - object id: 2_-1, object pose: ((-0.004236793621013403, -0.0004217742511704837, 0.02762573298263398), (-0.0015990406938667056, -9.445192385125111e-05, 0.003722831278009111))
+[2023-04-24 14:06:59,150][__main__][INFO] - object id: 2_-1, object pose: ((-0.004236809200826347, -0.00042180254914719694, 0.02762570394334684), (-0.003506687712311258, -0.00020024856837318466, 0.007986050755250452))
+[2023-04-24 14:07:00,162][__main__][INFO] - object id: 2_-1, object pose: ((-0.004236843437010298, -0.0004210527986471122, 0.027736840746195417), (-3.4248987584790464e-11, -1.0468320880244562e-11, 8.676485342144937e-11))
+[2023-04-24 14:07:01,189][__main__][INFO] - object id: 2_-1, object pose: ((-0.004236843436956407, -0.0004210527986288072, 0.027736840769648545), (-4.952044493383322e-35, -1.5136094355967093e-35, 1.2545288048003652e-34))
+[2023-04-24 14:07:02,235][__main__][INFO] - object id: 2_-1, object pose: ((-0.004236843436956407, -0.0004210527986288072, 0.027736840769648545), (-2.93279215616443e-59, -8.96418012024287e-60, 7.4298044844243725e-59))
+[2023-04-24 14:07:03,275][__main__][INFO] - object id: 2_-1, object pose: ((-0.004236843436956407, -0.0004210527986288072, 0.027736840769648545), (-1.736912873612546e-83, -5.308933952071897e-84, 4.400217393617915e-83))
+[2023-04-24 14:07:04,280][__main__][INFO] - object id: 2_-1, object pose: ((-0.004627585994863702, -0.0004210527986288072, 0.027736840769648545), (-1.0286669391759815e-107, -3.144155888145869e-108, 2.6059788183777127e-107))
+[2023-04-24 14:07:05,289][__main__][INFO] - object id: 2_-1, object pose: ((-0.012211574430789922, -0.0004210527986288072, 0.027736840769648545), (-2.904969795094621e-131, -8.879140116478553e-132, 7.359320559196593e-131))
+[2023-04-24 14:07:06,293][__main__][INFO] - object id: 2_-1, object pose: ((0.002629352838215798, -0.0004210527986288072, 0.027736840769648545), (-1.2818242579645237e-154, -3.9179399422283546e-155, 3.247316247778044e-154))
+[2023-04-24 14:07:07,300][__main__][INFO] - object id: 2_-1, object pose: ((0.0026315785944461814, -0.0004210527986288072, 0.027736840769648545), (-5.656077495472823e-178, -1.7287995447239547e-178, 1.4328853768851823e-177))
+[2023-04-24 14:07:08,334][__main__][INFO] - object id: 2_-1, object pose: ((0.0026315485889578296, -0.00042079380813206055, 0.027601106710487912), (-0.0009042260127176744, 4.377550190830662e-05, -0.001753901295820051))
+[2023-04-24 14:07:09,376][__main__][INFO] - object id: 2_-1, object pose: ((0.0026315268855251236, -0.0004216684781644781, 0.027599456064059877), (-0.0025340590963489154, 0.0001244404015471141, -0.0052672726155839865))
+[2023-04-24 14:07:10,402][__main__][INFO] - object id: 2_-1, object pose: ((0.002631593292930679, -0.0004210620390421979, 0.02759347985922734), (-0.0028965853617494357, 0.0002096205732211837, -0.005593519283140505))
+[2023-04-24 14:07:11,410][__main__][INFO] - object id: 2_-1, object pose: ((0.002631578594446183, -0.0004210527986288067, 0.02810526247153318), (-7.799123144561267e-14, 5.635401713790142e-15, -1.5033006340429432e-13))
+[2023-04-24 14:07:12,415][__main__][INFO] - object id: 2_-1, object pose: ((0.002631578594446183, -0.00042105279862880696, 0.028105262666940682), (-3.441380097800826e-37, 2.486633297291778e-38, -6.633346835425271e-37))
+[2023-04-26 21:26:07,290][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 21:26:08,391][__main__][INFO] - Initializing world
+[2023-04-26 21:26:09,191][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 21:26:11,793][trimesh][INFO] - triangulating faces
+[2023-04-26 21:26:11,820][pybulletX.gui.control_panel][INFO] - name: base_140397793944000_x, low: -0.04, high: 0.005, init_value: 0.0
+[2023-04-26 21:26:11,939][pybulletX.gui.control_panel][INFO] - name: base_140397793944000_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-26 21:26:12,062][pybulletX.gui.control_panel][INFO] - name: base_140397793944000_z, low: 0.02, high: 0.03, init_value: 0.03
+[2023-04-26 21:26:12,192][pybulletX.gui.control_panel][INFO] - name: base_140397793944000_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-26 21:26:12,319][pybulletX.gui.control_panel][INFO] - name: base_140397793944000_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-26 21:26:12,444][pybulletX.gui.control_panel][INFO] - name: base_140397793944000_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-26 21:26:12,560][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-26 21:27:12,473][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 21:27:13,526][__main__][INFO] - Initializing world
+[2023-04-26 21:27:14,300][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 21:27:16,654][trimesh][INFO] - triangulating faces
+[2023-04-26 21:27:16,680][pybulletX.gui.control_panel][INFO] - name: base_139704373321344_x, low: -0.04, high: 0.005, init_value: 0.0
+[2023-04-26 21:27:16,791][pybulletX.gui.control_panel][INFO] - name: base_139704373321344_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-26 21:27:16,927][pybulletX.gui.control_panel][INFO] - name: base_139704373321344_z, low: 0.02, high: 0.03, init_value: 0.03
+[2023-04-26 21:27:17,076][pybulletX.gui.control_panel][INFO] - name: base_139704373321344_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-26 21:27:17,207][pybulletX.gui.control_panel][INFO] - name: base_139704373321344_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-26 21:27:17,345][pybulletX.gui.control_panel][INFO] - name: base_139704373321344_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-26 21:27:17,499][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-26 21:27:30,699][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 21:27:31,716][__main__][INFO] - Initializing world
+[2023-04-26 21:27:32,407][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 21:27:35,047][trimesh][INFO] - triangulating faces
+[2023-04-26 21:27:35,072][pybulletX.gui.control_panel][INFO] - name: base_140004635979392_x, low: -0.04, high: 0.005, init_value: 0.0
+[2023-04-26 21:27:35,171][pybulletX.gui.control_panel][INFO] - name: base_140004635979392_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-26 21:27:35,317][pybulletX.gui.control_panel][INFO] - name: base_140004635979392_z, low: 0.02, high: 0.03, init_value: 0.03
+[2023-04-26 21:27:35,448][pybulletX.gui.control_panel][INFO] - name: base_140004635979392_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-26 21:27:35,577][pybulletX.gui.control_panel][INFO] - name: base_140004635979392_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-26 21:27:35,705][pybulletX.gui.control_panel][INFO] - name: base_140004635979392_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-26 21:27:35,856][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-26 21:27:55,816][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 21:27:56,932][__main__][INFO] - Initializing world
+[2023-04-26 21:27:57,689][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 21:27:59,978][trimesh][INFO] - triangulating faces
+[2023-04-26 21:28:00,005][pybulletX.gui.control_panel][INFO] - name: base_140564004633232_x, low: -0.04, high: 0.005, init_value: 0.0
+[2023-04-26 21:28:00,127][pybulletX.gui.control_panel][INFO] - name: base_140564004633232_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-26 21:28:00,269][pybulletX.gui.control_panel][INFO] - name: base_140564004633232_z, low: 0.02, high: 0.03, init_value: 0.06
+[2023-04-26 21:28:00,394][pybulletX.gui.control_panel][INFO] - name: base_140564004633232_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-26 21:28:00,518][pybulletX.gui.control_panel][INFO] - name: base_140564004633232_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-26 21:28:00,650][pybulletX.gui.control_panel][INFO] - name: base_140564004633232_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-26 21:28:00,786][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-26 21:28:31,008][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 21:28:32,049][__main__][INFO] - Initializing world
+[2023-04-26 21:28:32,726][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 21:28:35,207][trimesh][INFO] - triangulating faces
+[2023-04-26 21:28:35,231][pybulletX.gui.control_panel][INFO] - name: base_140384286207328_x, low: -0.04, high: 0.005, init_value: 0.0
+[2023-04-26 21:28:35,344][pybulletX.gui.control_panel][INFO] - name: base_140384286207328_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-26 21:28:35,462][pybulletX.gui.control_panel][INFO] - name: base_140384286207328_z, low: 0.02, high: 0.06, init_value: 0.06
+[2023-04-26 21:28:35,586][pybulletX.gui.control_panel][INFO] - name: base_140384286207328_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-26 21:28:35,706][pybulletX.gui.control_panel][INFO] - name: base_140384286207328_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-26 21:28:35,973][pybulletX.gui.control_panel][INFO] - name: base_140384286207328_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-26 21:28:36,100][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-26 21:32:32,359][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 21:32:33,391][__main__][INFO] - Initializing world
+[2023-04-26 21:32:34,236][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 21:32:36,527][trimesh][INFO] - triangulating faces
+[2023-04-26 21:32:36,550][pybulletX.gui.control_panel][INFO] - name: base_139698135896512_x, low: -0.04, high: 0.005, init_value: 0.0
+[2023-04-26 21:32:36,650][pybulletX.gui.control_panel][INFO] - name: base_139698135896512_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-26 21:32:36,770][pybulletX.gui.control_panel][INFO] - name: base_139698135896512_z, low: 0.02, high: 0.06, init_value: 0.06
+[2023-04-26 21:32:36,904][pybulletX.gui.control_panel][INFO] - name: base_139698135896512_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-26 21:32:37,026][pybulletX.gui.control_panel][INFO] - name: base_139698135896512_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-26 21:32:37,156][pybulletX.gui.control_panel][INFO] - name: base_139698135896512_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-26 21:32:37,289][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-26 21:38:45,869][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 21:38:46,868][__main__][INFO] - Initializing world
+[2023-04-26 21:38:47,576][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 21:38:50,000][trimesh][INFO] - triangulating faces
+[2023-04-26 21:38:50,028][pybulletX.gui.control_panel][INFO] - name: base_140551644390016_x, low: -0.04, high: 0.005, init_value: 0.0
+[2023-04-26 21:38:50,165][pybulletX.gui.control_panel][INFO] - name: base_140551644390016_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-26 21:38:50,305][pybulletX.gui.control_panel][INFO] - name: base_140551644390016_z, low: 0.02, high: 0.06, init_value: 0.06
+[2023-04-26 21:38:50,454][pybulletX.gui.control_panel][INFO] - name: base_140551644390016_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-26 21:38:50,624][pybulletX.gui.control_panel][INFO] - name: base_140551644390016_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-26 21:38:50,779][pybulletX.gui.control_panel][INFO] - name: base_140551644390016_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-26 21:38:50,926][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-26 21:46:24,777][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 21:46:25,839][__main__][INFO] - Initializing world
+[2023-04-26 21:46:26,610][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 21:46:29,081][trimesh][INFO] - triangulating faces
+[2023-04-26 21:46:29,104][pybulletX.gui.control_panel][INFO] - name: base_140636574132880_x, low: -0.04, high: 0.005, init_value: 0.0
+[2023-04-26 21:46:29,225][pybulletX.gui.control_panel][INFO] - name: base_140636574132880_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-04-26 21:46:29,385][pybulletX.gui.control_panel][INFO] - name: base_140636574132880_z, low: 0.02, high: 0.06, init_value: 0.06
+[2023-04-26 21:46:29,513][pybulletX.gui.control_panel][INFO] - name: base_140636574132880_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-26 21:46:29,652][pybulletX.gui.control_panel][INFO] - name: base_140636574132880_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-04-26 21:46:29,805][pybulletX.gui.control_panel][INFO] - name: base_140636574132880_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-04-26 21:46:29,942][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-05-04 00:35:21,690][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-05-04 00:35:22,239][__main__][INFO] - Initializing world
+[2023-05-04 00:35:22,704][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-05-04 00:35:24,350][trimesh][INFO] - triangulating faces
+[2023-05-04 00:35:24,363][pybulletX.gui.control_panel][INFO] - name: base_140620007915136_x, low: -0.04, high: 0.005, init_value: 0.0
+[2023-05-04 00:35:24,443][pybulletX.gui.control_panel][INFO] - name: base_140620007915136_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-05-04 00:35:24,557][pybulletX.gui.control_panel][INFO] - name: base_140620007915136_z, low: 0.02, high: 0.06, init_value: 0.06
+[2023-05-04 00:35:24,638][pybulletX.gui.control_panel][INFO] - name: base_140620007915136_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-05-04 00:35:24,749][pybulletX.gui.control_panel][INFO] - name: base_140620007915136_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-05-04 00:35:24,858][pybulletX.gui.control_panel][INFO] - name: base_140620007915136_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-05-04 00:35:24,963][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-05-04 00:36:01,116][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-05-04 00:36:01,684][__main__][INFO] - Initializing world
+[2023-05-04 00:36:02,100][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-05-04 00:36:03,200][trimesh][INFO] - triangulating faces
+[2023-05-04 00:36:03,213][pybulletX.gui.control_panel][INFO] - name: base_140394289113696_x, low: -0.04, high: 0.005, init_value: 0.0
+[2023-05-04 00:36:03,291][pybulletX.gui.control_panel][INFO] - name: base_140394289113696_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-05-04 00:36:03,383][pybulletX.gui.control_panel][INFO] - name: base_140394289113696_z, low: 0.02, high: 0.06, init_value: 0.06
+[2023-05-04 00:36:03,463][pybulletX.gui.control_panel][INFO] - name: base_140394289113696_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-05-04 00:36:03,546][pybulletX.gui.control_panel][INFO] - name: base_140394289113696_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-05-04 00:36:03,629][pybulletX.gui.control_panel][INFO] - name: base_140394289113696_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-05-04 00:36:03,720][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-05-04 00:36:14,495][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-05-04 00:36:15,017][__main__][INFO] - Initializing world
+[2023-05-04 00:36:15,483][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-05-04 00:36:17,422][trimesh][INFO] - triangulating faces
+[2023-05-04 00:36:17,435][pybulletX.gui.control_panel][INFO] - name: base_140042977137280_x, low: -0.04, high: 0.005, init_value: 0.0
+[2023-05-04 00:36:17,607][pybulletX.gui.control_panel][INFO] - name: base_140042977137280_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-05-04 00:36:17,907][pybulletX.gui.control_panel][INFO] - name: base_140042977137280_z, low: 0.02, high: 0.06, init_value: 0.06
+[2023-05-04 00:36:18,276][pybulletX.gui.control_panel][INFO] - name: base_140042977137280_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-05-04 00:36:18,484][pybulletX.gui.control_panel][INFO] - name: base_140042977137280_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-05-04 00:36:18,705][pybulletX.gui.control_panel][INFO] - name: base_140042977137280_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-05-04 00:36:19,014][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-05-04 00:37:41,010][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-05-04 00:37:41,584][__main__][INFO] - Initializing world
+[2023-05-04 00:37:42,012][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-05-04 00:37:43,452][trimesh][INFO] - triangulating faces
+[2023-05-04 00:37:43,466][pybulletX.gui.control_panel][INFO] - name: base_139966943501952_x, low: -0.04, high: 0.005, init_value: 0.0
+[2023-05-04 00:37:43,543][pybulletX.gui.control_panel][INFO] - name: base_139966943501952_y, low: -0.02, high: 0.0, init_value: 0.0
+[2023-05-04 00:37:43,637][pybulletX.gui.control_panel][INFO] - name: base_139966943501952_z, low: 0.02, high: 0.06, init_value: 0.06
+[2023-05-04 00:37:43,722][pybulletX.gui.control_panel][INFO] - name: base_139966943501952_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-05-04 00:37:43,801][pybulletX.gui.control_panel][INFO] - name: base_139966943501952_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-05-04 00:37:43,874][pybulletX.gui.control_panel][INFO] - name: base_139966943501952_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-05-04 00:37:43,963][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-05-04 00:39:19,823][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-05-04 00:39:20,364][__main__][INFO] - Initializing world
+[2023-05-04 00:39:20,926][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-05-04 00:39:22,042][trimesh][INFO] - triangulating faces
+[2023-05-04 00:39:22,070][pybulletX.gui.control_panel][INFO] - name: base_139626324574848_x, low: -0.04, high: 0.005, init_value: 0.0
+[2023-05-04 00:39:22,141][pybulletX.gui.control_panel][INFO] - name: base_139626324574848_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-05-04 00:39:22,274][pybulletX.gui.control_panel][INFO] - name: base_139626324574848_z, low: 0.0, high: 0.06, init_value: 0.04
+[2023-05-04 00:39:22,357][pybulletX.gui.control_panel][INFO] - name: base_139626324574848_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-05-04 00:39:22,467][pybulletX.gui.control_panel][INFO] - name: base_139626324574848_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-05-04 00:39:22,561][pybulletX.gui.control_panel][INFO] - name: base_139626324574848_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-05-04 00:39:22,699][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-05-04 01:06:07,828][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-05-04 01:06:08,384][__main__][INFO] - Initializing world
+[2023-05-04 01:06:08,809][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-05-04 01:06:10,261][trimesh][INFO] - triangulating faces
+[2023-05-04 01:06:10,274][pybulletX.gui.control_panel][INFO] - name: base_140233558086272_x, low: -0.04, high: 0.005, init_value: 0.0
+[2023-05-04 01:06:10,372][pybulletX.gui.control_panel][INFO] - name: base_140233558086272_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-05-04 01:06:10,489][pybulletX.gui.control_panel][INFO] - name: base_140233558086272_z, low: 0.0, high: 0.06, init_value: 0.04
+[2023-05-04 01:06:10,583][pybulletX.gui.control_panel][INFO] - name: base_140233558086272_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-05-04 01:06:10,673][pybulletX.gui.control_panel][INFO] - name: base_140233558086272_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-05-04 01:06:10,772][pybulletX.gui.control_panel][INFO] - name: base_140233558086272_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-05-04 01:06:10,867][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-05-04 01:09:49,063][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-05-04 01:09:49,580][__main__][INFO] - Initializing world
+[2023-05-04 01:09:50,021][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-05-04 01:09:51,417][trimesh][INFO] - triangulating faces
+[2023-05-04 01:09:51,434][pybulletX.gui.control_panel][INFO] - name: base_140046642724480_x, low: -0.04, high: 0.005, init_value: 0.0
+[2023-05-04 01:09:51,529][pybulletX.gui.control_panel][INFO] - name: base_140046642724480_y, low: -0.02, high: 0.02, init_value: 0.0
+[2023-05-04 01:09:51,628][pybulletX.gui.control_panel][INFO] - name: base_140046642724480_z, low: 0.0, high: 0.06, init_value: 0.04
+[2023-05-04 01:09:51,720][pybulletX.gui.control_panel][INFO] - name: base_140046642724480_euler_x, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-05-04 01:09:51,806][pybulletX.gui.control_panel][INFO] - name: base_140046642724480_euler_y, low: -3.141592653589793, high: 3.141592653589793, init_value: -0.0
+[2023-05-04 01:09:51,949][pybulletX.gui.control_panel][INFO] - name: base_140046642724480_euler_z, low: -3.141592653589793, high: 3.141592653589793, init_value: 0.0
+[2023-05-04 01:09:52,042][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT

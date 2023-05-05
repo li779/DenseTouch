@@ -1,0 +1,694 @@
+[2023-04-18 17:16:48,450][__main__][INFO] - Initializing world
+[2023-04-18 17:16:48,926][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-18 17:16:49,428][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-18 17:17:37,785][__main__][INFO] - Initializing world
+[2023-04-18 17:17:38,182][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-18 17:17:38,717][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-18 17:17:39,643][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-18 17:18:42,893][__main__][INFO] - Initializing world
+[2023-04-18 17:18:43,441][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-18 17:18:43,949][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-18 17:18:44,984][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-18 17:19:33,972][__main__][INFO] - Initializing world
+[2023-04-18 17:19:34,518][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-18 17:19:35,304][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-18 17:19:36,296][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-18 17:20:20,053][__main__][INFO] - Initializing world
+[2023-04-18 17:20:20,678][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-18 17:20:21,575][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-18 17:20:22,596][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-18 17:30:23,771][__main__][INFO] - Initializing world
+[2023-04-18 17:30:24,412][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-18 17:30:25,443][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-18 17:30:26,438][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-18 17:30:59,634][__main__][INFO] - Initializing world
+[2023-04-18 17:31:00,068][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-18 17:31:00,492][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-18 17:31:01,470][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-18 17:31:15,130][__main__][INFO] - Initializing world
+[2023-04-18 17:31:15,574][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-18 17:31:16,133][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-18 17:31:17,145][__main__][INFO] - Use the slides to move the object until in contact with the DIGIT
+[2023-04-19 14:56:10,276][__main__][INFO] - Initializing world
+[2023-04-19 14:56:10,675][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 14:56:12,098][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 14:56:54,292][__main__][INFO] - Initializing world
+[2023-04-19 14:56:54,877][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 14:56:55,568][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 14:57:47,277][__main__][INFO] - Initializing world
+[2023-04-19 14:57:47,654][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 14:57:48,587][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 15:07:25,656][__main__][INFO] - Initializing world
+[2023-04-19 15:07:26,216][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 15:07:27,125][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 15:07:50,368][__main__][INFO] - Initializing world
+[2023-04-19 15:07:50,886][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 15:07:51,526][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 15:08:35,739][__main__][INFO] - Initializing world
+[2023-04-19 15:08:36,482][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 15:08:37,757][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 15:10:49,577][__main__][INFO] - Initializing world
+[2023-04-19 15:10:49,956][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 15:10:50,774][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 15:11:03,980][__main__][INFO] - Initializing world
+[2023-04-19 15:11:04,394][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 15:11:04,965][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 15:14:13,275][__main__][INFO] - Initializing world
+[2023-04-19 15:14:13,623][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 15:14:14,479][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 15:14:40,036][__main__][INFO] - Initializing world
+[2023-04-19 15:14:40,473][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 15:14:40,949][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 15:14:59,222][__main__][INFO] - Initializing world
+[2023-04-19 15:14:59,601][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 15:15:00,176][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 15:17:50,789][__main__][INFO] - Initializing world
+[2023-04-19 15:17:51,308][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 15:17:51,865][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 15:18:06,132][__main__][INFO] - Initializing world
+[2023-04-19 15:18:06,515][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 15:18:07,177][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 16:13:48,070][__main__][INFO] - Initializing world
+[2023-04-19 16:13:48,615][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 16:13:49,207][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 16:14:48,343][__main__][INFO] - Initializing world
+[2023-04-19 16:14:48,884][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 16:14:49,996][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 16:15:38,070][__main__][INFO] - Initializing world
+[2023-04-19 16:15:38,686][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 16:15:40,066][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 16:15:48,876][__main__][INFO] - Initializing world
+[2023-04-19 16:15:49,297][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 16:15:49,988][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 16:16:11,236][__main__][INFO] - Initializing world
+[2023-04-19 16:16:11,837][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 16:16:13,307][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 16:17:23,802][__main__][INFO] - Initializing world
+[2023-04-19 16:17:24,168][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 16:17:24,785][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 16:18:29,643][__main__][INFO] - Initializing world
+[2023-04-19 16:18:30,172][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 16:18:31,177][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 16:19:13,579][__main__][INFO] - Initializing world
+[2023-04-19 16:19:14,051][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 16:19:15,226][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 16:19:46,533][__main__][INFO] - Initializing world
+[2023-04-19 16:19:47,142][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 16:19:48,325][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-19 16:21:08,651][__main__][INFO] - Initializing world
+[2023-04-19 16:21:09,173][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-19 16:21:09,900][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 05:20:10,053][__main__][INFO] - Initializing world
+[2023-04-25 05:20:10,760][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 05:20:11,992][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 05:22:53,032][__main__][INFO] - Initializing world
+[2023-04-25 05:22:53,882][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 05:22:55,283][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 05:25:54,064][__main__][INFO] - Initializing world
+[2023-04-25 05:25:55,110][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 05:25:56,452][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 05:26:38,217][__main__][INFO] - Initializing world
+[2023-04-25 05:26:39,192][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 05:26:40,645][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 05:29:10,620][__main__][INFO] - Initializing world
+[2023-04-25 05:29:11,272][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 05:29:12,526][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 05:29:31,839][__main__][INFO] - Initializing world
+[2023-04-25 05:29:32,906][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 05:29:34,404][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 05:31:07,034][__main__][INFO] - Initializing world
+[2023-04-25 05:31:07,745][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 05:31:08,930][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 05:34:33,316][__main__][INFO] - Initializing world
+[2023-04-25 05:34:34,224][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 05:34:35,692][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 05:35:32,745][__main__][INFO] - Initializing world
+[2023-04-25 05:35:33,467][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 05:35:35,038][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 05:36:34,198][__main__][INFO] - Initializing world
+[2023-04-25 05:36:34,850][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 05:36:35,976][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 05:38:04,515][__main__][INFO] - Initializing world
+[2023-04-25 05:38:05,458][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 05:38:06,901][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 05:38:38,399][__main__][INFO] - Initializing world
+[2023-04-25 05:38:39,041][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 05:38:40,268][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 05:39:12,336][__main__][INFO] - Initializing world
+[2023-04-25 05:39:13,004][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 05:39:14,241][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 05:39:33,728][__main__][INFO] - Initializing world
+[2023-04-25 05:39:34,586][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 05:39:36,337][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 05:44:14,188][__main__][INFO] - Initializing world
+[2023-04-25 05:44:14,904][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 05:44:16,057][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 05:46:41,144][__main__][INFO] - Initializing world
+[2023-04-25 05:46:41,844][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 05:46:43,000][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 05:47:15,921][__main__][INFO] - Initializing world
+[2023-04-25 05:47:16,591][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 05:47:17,758][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 05:49:01,837][__main__][INFO] - Initializing world
+[2023-04-25 05:49:02,497][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 05:49:03,982][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 05:52:01,769][__main__][INFO] - Initializing world
+[2023-04-25 05:52:02,513][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 05:52:03,965][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 05:52:43,946][__main__][INFO] - Initializing world
+[2023-04-25 05:52:44,602][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 05:52:45,747][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 05:53:06,542][__main__][INFO] - Initializing world
+[2023-04-25 05:53:07,193][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 05:53:08,325][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 05:55:02,932][__main__][INFO] - Initializing world
+[2023-04-25 05:55:03,938][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 05:55:05,556][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 05:55:39,835][__main__][INFO] - Initializing world
+[2023-04-25 05:55:40,520][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 05:55:41,785][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 05:56:13,459][__main__][INFO] - Initializing world
+[2023-04-25 05:56:14,124][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 05:56:15,404][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 05:57:54,942][__main__][INFO] - Initializing world
+[2023-04-25 05:57:55,655][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 05:57:57,196][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 06:05:08,801][__main__][INFO] - Initializing world
+[2023-04-25 06:05:09,736][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 06:05:11,639][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 06:10:08,842][__main__][INFO] - Initializing world
+[2023-04-25 06:10:09,616][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 06:10:10,826][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 06:11:11,751][__main__][INFO] - Initializing world
+[2023-04-25 06:11:12,827][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 06:11:14,207][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 06:12:39,806][__main__][INFO] - Initializing world
+[2023-04-25 06:12:40,733][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 06:12:41,965][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 06:13:39,291][__main__][INFO] - Initializing world
+[2023-04-25 06:13:40,014][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 06:13:41,253][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 06:16:07,410][__main__][INFO] - Initializing world
+[2023-04-25 06:16:08,316][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 06:16:09,646][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 06:18:15,782][__main__][INFO] - Initializing world
+[2023-04-25 06:18:16,714][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 06:18:18,554][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 06:19:50,880][__main__][INFO] - Initializing world
+[2023-04-25 06:19:51,890][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 06:19:53,274][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 06:21:04,480][__main__][INFO] - Initializing world
+[2023-04-25 06:21:05,504][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 06:21:07,095][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 06:21:52,831][__main__][INFO] - Initializing world
+[2023-04-25 06:21:53,746][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 06:21:55,381][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 06:23:41,348][__main__][INFO] - Initializing world
+[2023-04-25 06:23:42,061][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 06:23:43,019][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 06:29:47,656][__main__][INFO] - Initializing world
+[2023-04-25 06:29:48,424][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 06:29:49,672][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 06:33:27,813][__main__][INFO] - Initializing world
+[2023-04-25 06:33:28,739][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 06:33:30,143][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 06:36:25,415][__main__][INFO] - Initializing world
+[2023-04-25 06:36:26,421][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 06:36:28,238][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 06:36:51,741][__main__][INFO] - Initializing world
+[2023-04-25 06:36:52,464][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 06:36:53,685][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 06:38:16,545][__main__][INFO] - Initializing world
+[2023-04-25 06:38:17,299][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 06:38:18,653][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 06:39:20,740][__main__][INFO] - Initializing world
+[2023-04-25 06:39:21,751][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 06:39:23,012][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 06:40:29,688][__main__][INFO] - Initializing world
+[2023-04-25 06:40:30,814][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 06:40:32,144][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 06:42:36,629][__main__][INFO] - Initializing world
+[2023-04-25 06:42:37,528][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 06:42:39,244][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 06:44:23,320][__main__][INFO] - Initializing world
+[2023-04-25 06:44:24,047][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 06:44:25,295][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 08:37:14,316][__main__][INFO] - Initializing world
+[2023-04-25 08:37:14,716][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 08:37:15,530][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 08:37:16,437][trimesh][INFO] - triangulating faces
+[2023-04-25 08:44:46,879][__main__][INFO] - Initializing world
+[2023-04-25 08:44:47,604][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 08:44:48,094][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 08:44:49,458][trimesh][INFO] - triangulating faces
+[2023-04-25 08:45:58,598][__main__][INFO] - Initializing world
+[2023-04-25 08:45:59,045][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 08:45:59,671][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 08:46:00,777][trimesh][INFO] - triangulating faces
+[2023-04-25 13:48:39,579][__main__][INFO] - Initializing world
+[2023-04-25 13:48:40,121][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 13:48:40,921][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 13:48:42,574][trimesh][INFO] - triangulating faces
+[2023-04-25 13:50:10,238][__main__][INFO] - Initializing world
+[2023-04-25 13:50:11,059][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 13:50:11,992][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 13:50:14,137][trimesh][INFO] - triangulating faces
+[2023-04-25 16:22:17,079][__main__][INFO] - Initializing world
+[2023-04-25 16:22:17,457][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 16:22:18,506][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 16:22:19,853][trimesh][INFO] - triangulating faces
+[2023-04-25 16:23:01,898][__main__][INFO] - Initializing world
+[2023-04-25 16:23:02,516][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 16:23:03,368][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 16:23:04,303][trimesh][INFO] - triangulating faces
+[2023-04-25 16:26:14,485][__main__][INFO] - Initializing world
+[2023-04-25 16:26:14,929][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 16:26:16,038][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 16:26:17,063][trimesh][INFO] - triangulating faces
+[2023-04-25 16:27:24,301][__main__][INFO] - Initializing world
+[2023-04-25 16:27:24,977][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 16:27:26,199][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 16:27:27,091][trimesh][INFO] - triangulating faces
+[2023-04-25 16:29:10,162][__main__][INFO] - Initializing world
+[2023-04-25 16:29:10,578][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 16:29:11,065][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 16:33:32,045][__main__][INFO] - Initializing world
+[2023-04-25 16:33:32,597][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 16:33:33,417][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 16:33:34,949][trimesh][INFO] - triangulating faces
+[2023-04-25 16:35:01,023][__main__][INFO] - Initializing world
+[2023-04-25 16:35:01,726][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 16:35:02,719][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 16:35:03,978][trimesh][INFO] - triangulating faces
+[2023-04-25 17:11:14,482][__main__][INFO] - Initializing world
+[2023-04-25 17:11:15,205][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 17:11:16,256][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 17:11:17,358][trimesh][INFO] - triangulating faces
+[2023-04-25 17:12:32,401][__main__][INFO] - Initializing world
+[2023-04-25 17:12:32,795][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 17:12:33,378][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 17:12:34,459][trimesh][INFO] - triangulating faces
+[2023-04-25 17:24:27,904][__main__][INFO] - Initializing world
+[2023-04-25 17:24:28,263][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 17:24:29,195][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 17:24:30,618][trimesh][INFO] - triangulating faces
+[2023-04-25 17:25:19,680][__main__][INFO] - Initializing world
+[2023-04-25 17:25:20,235][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 17:25:21,313][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 17:25:22,954][trimesh][INFO] - triangulating faces
+[2023-04-25 17:30:39,947][__main__][INFO] - Initializing world
+[2023-04-25 17:30:40,628][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 17:30:41,647][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 17:30:43,406][trimesh][INFO] - triangulating faces
+[2023-04-25 17:31:31,747][__main__][INFO] - Initializing world
+[2023-04-25 17:31:32,789][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 17:31:33,914][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 17:31:35,676][trimesh][INFO] - triangulating faces
+[2023-04-25 17:34:17,001][__main__][INFO] - Initializing world
+[2023-04-25 17:34:17,807][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 17:34:19,270][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 17:34:20,450][trimesh][INFO] - triangulating faces
+[2023-04-25 17:36:25,423][__main__][INFO] - Initializing world
+[2023-04-25 17:36:26,219][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 17:36:27,466][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 17:36:28,975][trimesh][INFO] - triangulating faces
+[2023-04-25 17:37:43,212][__main__][INFO] - Initializing world
+[2023-04-25 17:37:43,790][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 17:37:44,643][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 17:37:46,074][trimesh][INFO] - triangulating faces
+[2023-04-25 17:39:01,617][__main__][INFO] - Initializing world
+[2023-04-25 17:39:02,104][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 17:39:02,983][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 17:39:04,117][trimesh][INFO] - triangulating faces
+[2023-04-25 17:40:12,078][__main__][INFO] - Initializing world
+[2023-04-25 17:40:13,066][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 17:40:14,122][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 17:40:15,503][trimesh][INFO] - triangulating faces
+[2023-04-25 17:41:23,282][__main__][INFO] - Initializing world
+[2023-04-25 17:41:23,957][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 17:41:25,084][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 17:41:26,292][trimesh][INFO] - triangulating faces
+[2023-04-25 17:44:17,299][__main__][INFO] - Initializing world
+[2023-04-25 17:44:18,046][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 17:44:19,305][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 17:44:20,809][trimesh][INFO] - triangulating faces
+[2023-04-25 17:45:55,862][__main__][INFO] - Initializing world
+[2023-04-25 17:45:56,645][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 17:45:57,811][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 17:45:58,908][trimesh][INFO] - triangulating faces
+[2023-04-25 17:46:37,295][__main__][INFO] - Initializing world
+[2023-04-25 17:46:37,722][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 17:46:38,347][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 17:46:39,315][trimesh][INFO] - triangulating faces
+[2023-04-25 17:52:29,864][__main__][INFO] - Initializing world
+[2023-04-25 17:52:30,656][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 17:52:31,980][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 17:52:33,443][trimesh][INFO] - triangulating faces
+[2023-04-25 17:52:50,440][__main__][INFO] - Initializing world
+[2023-04-25 17:52:51,078][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-25 17:52:52,338][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-25 17:52:53,850][trimesh][INFO] - triangulating faces
+[2023-04-26 18:56:35,636][__main__][INFO] - Initializing world
+[2023-04-26 18:56:36,360][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 18:56:37,658][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 18:56:40,007][trimesh][INFO] - triangulating faces
+[2023-04-26 19:00:52,242][__main__][INFO] - Initializing world
+[2023-04-26 19:00:53,358][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 19:00:54,939][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 19:00:58,863][trimesh][INFO] - triangulating faces
+[2023-04-26 19:01:12,997][motion][INFO] - new edge: [62, 60] [79 42]
+[2023-04-26 19:05:20,968][__main__][INFO] - Initializing world
+[2023-04-26 19:05:22,058][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 19:05:23,628][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 19:05:26,447][trimesh][INFO] - triangulating faces
+[2023-04-26 19:05:42,250][motion][INFO] - new edge: [62, 60] [79 42]
+[2023-04-26 19:07:47,186][__main__][INFO] - Initializing world
+[2023-04-26 19:07:47,972][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 19:07:49,652][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 19:14:58,155][__main__][INFO] - Initializing world
+[2023-04-26 19:14:59,343][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 19:15:00,944][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 19:15:03,711][trimesh][INFO] - triangulating faces
+[2023-04-26 19:15:18,761][motion][INFO] - new edge: [62, 60] [79 42]
+[2023-04-26 19:16:11,591][__main__][INFO] - Initializing world
+[2023-04-26 19:16:12,703][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 19:16:14,254][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 19:16:16,576][trimesh][INFO] - triangulating faces
+[2023-04-26 19:16:33,087][motion][INFO] - new edge: [62, 60] [79 42]
+[2023-04-26 19:16:55,391][__main__][INFO] - Initializing world
+[2023-04-26 19:16:56,428][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 19:16:58,190][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 19:17:00,719][trimesh][INFO] - triangulating faces
+[2023-04-26 19:17:15,814][motion][INFO] - new edge: [62, 60] [79 42]
+[2023-04-26 19:19:45,499][__main__][INFO] - Initializing world
+[2023-04-26 19:19:46,394][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 19:19:48,046][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 19:19:50,524][trimesh][INFO] - triangulating faces
+[2023-04-26 19:20:06,083][motion][INFO] - new edge: [62, 60] [79 42]
+[2023-04-26 19:20:27,293][__main__][INFO] - Initializing world
+[2023-04-26 19:20:28,460][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 19:20:29,714][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 19:20:32,515][trimesh][INFO] - triangulating faces
+[2023-04-26 19:20:47,976][motion][INFO] - new edge: [62, 60] [79 42]
+[2023-04-26 19:21:08,973][__main__][INFO] - Initializing world
+[2023-04-26 19:21:09,858][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 19:21:11,665][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 19:21:14,005][trimesh][INFO] - triangulating faces
+[2023-04-26 19:21:29,410][motion][INFO] - new edge: [62, 60] [79 42]
+[2023-04-26 19:24:54,971][__main__][INFO] - Initializing world
+[2023-04-26 19:24:56,223][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 19:24:58,030][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 19:25:00,765][trimesh][INFO] - triangulating faces
+[2023-04-26 19:25:15,066][motion][INFO] - new edge: [62, 60] [79 42]
+[2023-04-26 19:25:35,574][__main__][INFO] - Initializing world
+[2023-04-26 19:25:36,615][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 19:25:38,606][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 19:25:41,618][trimesh][INFO] - triangulating faces
+[2023-04-26 19:25:58,700][motion][INFO] - new edge: [62, 60] [79 42]
+[2023-04-26 19:27:55,019][__main__][INFO] - Initializing world
+[2023-04-26 19:27:56,473][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 19:27:58,087][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 19:28:01,218][trimesh][INFO] - triangulating faces
+[2023-04-26 19:28:18,474][motion][INFO] - new edge: [62, 60] [79 42]
+[2023-04-26 19:29:20,851][__main__][INFO] - Initializing world
+[2023-04-26 19:29:22,040][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 19:29:23,811][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 19:29:26,502][trimesh][INFO] - triangulating faces
+[2023-04-26 19:29:44,433][motion][INFO] - new edge: [62, 60] [79 42]
+[2023-04-26 19:31:10,149][__main__][INFO] - Initializing world
+[2023-04-26 19:31:11,296][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 19:31:14,160][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 19:31:19,976][trimesh][INFO] - triangulating faces
+[2023-04-26 19:31:34,275][motion][INFO] - new edge: [62, 60] [79 42]
+[2023-04-26 19:32:05,356][__main__][INFO] - Initializing world
+[2023-04-26 19:32:06,767][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 19:32:08,411][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 19:32:11,689][trimesh][INFO] - triangulating faces
+[2023-04-26 19:32:29,115][motion][INFO] - new edge: [62, 60] [79 42]
+[2023-04-26 19:33:15,854][__main__][INFO] - Initializing world
+[2023-04-26 19:33:17,184][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 19:33:19,156][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 19:33:22,350][trimesh][INFO] - triangulating faces
+[2023-04-26 19:33:38,767][motion][INFO] - new edge: [62, 60] [79 42]
+[2023-04-26 19:34:13,180][__main__][INFO] - Initializing world
+[2023-04-26 19:34:24,564][__main__][INFO] - Initializing world
+[2023-04-26 19:34:25,937][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 19:34:27,503][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 19:34:30,580][trimesh][INFO] - triangulating faces
+[2023-04-26 19:35:23,694][__main__][INFO] - Initializing world
+[2023-04-26 19:35:25,077][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 19:35:27,465][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 19:35:30,350][trimesh][INFO] - triangulating faces
+[2023-04-26 19:35:56,406][__main__][INFO] - Initializing world
+[2023-04-26 19:35:57,706][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 19:35:59,219][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 19:36:01,842][trimesh][INFO] - triangulating faces
+[2023-04-26 19:36:18,014][motion][INFO] - new edge: [62, 60] [79 42]
+[2023-04-26 19:36:54,980][__main__][INFO] - Initializing world
+[2023-04-26 19:36:56,009][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 19:36:57,869][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 19:37:00,792][trimesh][INFO] - triangulating faces
+[2023-04-26 19:37:19,802][motion][INFO] - new edge: [62, 60] [79 42]
+[2023-04-26 19:39:20,768][__main__][INFO] - Initializing world
+[2023-04-26 19:39:21,817][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 19:39:23,507][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 19:39:26,622][trimesh][INFO] - triangulating faces
+[2023-04-26 19:39:41,923][motion][INFO] - new edge: [62, 60] [79 42]
+[2023-04-26 19:40:20,771][__main__][INFO] - Initializing world
+[2023-04-26 19:40:21,779][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 19:40:23,266][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 19:40:26,145][trimesh][INFO] - triangulating faces
+[2023-04-26 19:40:43,511][motion][INFO] - new edge: [62, 60] [79 42]
+[2023-04-26 19:40:59,648][__main__][INFO] - Initializing world
+[2023-04-26 19:41:00,584][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 19:41:02,185][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 19:41:05,007][trimesh][INFO] - triangulating faces
+[2023-04-26 19:41:24,198][motion][INFO] - new edge: [62, 60] [79 42]
+[2023-04-26 19:46:16,220][__main__][INFO] - Initializing world
+[2023-04-26 19:46:17,165][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 19:46:18,977][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 19:46:21,931][trimesh][INFO] - triangulating faces
+[2023-04-26 19:46:38,257][motion][INFO] - new edge: [62, 60] [79 42]
+[2023-04-26 19:47:43,939][__main__][INFO] - Initializing world
+[2023-04-26 19:47:44,783][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 19:47:46,658][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 19:47:49,540][trimesh][INFO] - triangulating faces
+[2023-04-26 19:48:06,298][motion][INFO] - new edge: [62, 60] [79 42]
+[2023-04-26 19:48:06,334][motion][INFO] - edge1: [-0.018933333333333333, -0.016, 0.020122] edge2: [-0.0212, -0.013600000000000001, 0.020122]
+[2023-04-26 21:59:09,570][__main__][INFO] - Initializing world
+[2023-04-26 21:59:10,318][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 21:59:11,439][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 21:59:13,286][trimesh][INFO] - triangulating faces
+[2023-04-26 21:59:29,662][motion][INFO] - new edge: [38, 60] [81 10]
+[2023-04-26 21:59:29,707][motion][INFO] - edge1: [-0.015733333333333335, -0.016, 0.020122] edge2: [-0.02146666666666667, -0.009333333333333334, 0.020122]
+[2023-04-26 22:18:13,632][__main__][INFO] - Initializing world
+[2023-04-26 22:18:14,523][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 22:18:15,685][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 22:18:17,821][trimesh][INFO] - triangulating faces
+[2023-04-26 22:18:17,843][motion][INFO] - edge1: [0.    1.    0.035] edge2: [ 0.    -1.     0.035]
+[2023-04-26 22:19:12,517][__main__][INFO] - Initializing world
+[2023-04-26 22:19:13,228][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 22:19:14,949][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 22:19:16,712][trimesh][INFO] - triangulating faces
+[2023-04-26 22:19:16,739][motion][INFO] - edge1: [0.   1.   0.06] edge2: [ 0.   -1.    0.06]
+[2023-04-26 22:19:49,990][__main__][INFO] - Initializing world
+[2023-04-26 22:19:50,812][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 22:19:52,451][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 22:19:54,724][trimesh][INFO] - triangulating faces
+[2023-04-26 22:19:54,754][motion][INFO] - edge1: [0.   1.   0.06] edge2: [ 0.   -1.    0.05]
+[2023-04-26 22:20:31,437][__main__][INFO] - Initializing world
+[2023-04-26 22:20:32,238][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-26 22:20:33,881][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-26 22:20:36,240][trimesh][INFO] - triangulating faces
+[2023-04-26 22:20:36,265][motion][INFO] - edge1: [0.   1.   0.04] edge2: [ 0.   -1.    0.04]
+[2023-04-27 11:24:13,570][__main__][INFO] - Initializing world
+[2023-04-27 11:24:14,361][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-27 11:24:15,833][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-27 11:24:17,994][trimesh][INFO] - triangulating faces
+[2023-04-27 11:24:18,017][motion][INFO] - edge1: [0.   1.   0.04] edge2: [ 0.   -1.    0.04]
+[2023-04-27 11:26:00,062][__main__][INFO] - Initializing world
+[2023-04-27 11:26:00,749][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-27 11:26:01,945][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-27 11:26:03,969][trimesh][INFO] - triangulating faces
+[2023-04-27 11:26:03,996][motion][INFO] - edge1: [0.   1.   0.04] edge2: [ 0.   -1.    0.04]
+[2023-04-27 11:26:30,455][__main__][INFO] - Initializing world
+[2023-04-27 11:26:31,153][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-27 11:26:32,368][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-27 11:26:34,521][trimesh][INFO] - triangulating faces
+[2023-04-27 11:26:34,548][motion][INFO] - edge1: [0.   1.   0.04] edge2: [ 0.   -1.    0.04]
+[2023-04-27 11:32:50,134][__main__][INFO] - Initializing world
+[2023-04-27 11:32:50,926][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-27 11:32:53,001][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-27 11:32:55,001][trimesh][INFO] - triangulating faces
+[2023-04-27 11:33:28,712][motion][INFO] - new edge: [38, 60] [81 10]
+[2023-04-27 11:33:28,751][motion][INFO] - edge1: [-0.015733333333333335, -0.016, 0.020122] edge2: [-0.02146666666666667, -0.009333333333333334, 0.020122]
+[2023-04-27 11:34:01,662][__main__][INFO] - Initializing world
+[2023-04-27 11:34:02,356][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-27 11:34:03,726][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-27 11:34:05,835][trimesh][INFO] - triangulating faces
+[2023-04-27 11:34:27,011][motion][INFO] - new edge: [38, 60] [81 10]
+[2023-04-27 11:34:27,052][motion][INFO] - edge1: [-0.015733333333333335, -0.016, 0.020122] edge2: [-0.02146666666666667, -0.009333333333333334, 0.020122]
+[2023-04-27 11:34:51,792][__main__][INFO] - Initializing world
+[2023-04-27 11:34:52,464][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-27 11:34:53,474][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-27 11:34:55,655][trimesh][INFO] - triangulating faces
+[2023-04-27 11:35:16,585][motion][INFO] - new edge: [38, 60] [81 10]
+[2023-04-27 11:35:16,629][motion][INFO] - edge1: [-0.015733333333333335, -0.016, 0.020122] edge2: [-0.02146666666666667, -0.009333333333333334, 0.020122]
+[2023-04-27 11:35:36,499][__main__][INFO] - Initializing world
+[2023-04-27 11:35:37,252][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-27 11:35:38,831][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-27 11:35:40,783][trimesh][INFO] - triangulating faces
+[2023-04-27 11:35:58,676][motion][INFO] - new edge: [38, 60] [81 10]
+[2023-04-27 11:35:58,717][motion][INFO] - edge1: [-0.015733333333333335, -0.016, 0.020122] edge2: [-0.02146666666666667, -0.009333333333333334, 0.020122]
+[2023-04-27 11:36:33,087][__main__][INFO] - Initializing world
+[2023-04-27 11:36:33,843][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-27 11:36:35,337][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-27 11:36:37,237][trimesh][INFO] - triangulating faces
+[2023-04-27 11:36:55,217][motion][INFO] - new edge: [38, 60] [81 10]
+[2023-04-27 11:36:55,254][motion][INFO] - edge1: [-0.015733333333333335, -0.016, 0.020122] edge2: [-0.02146666666666667, -0.009333333333333334, 0.020122]
+[2023-04-27 11:40:41,037][__main__][INFO] - Initializing world
+[2023-04-27 11:40:41,799][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-27 11:40:43,210][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-27 11:40:45,528][trimesh][INFO] - triangulating faces
+[2023-04-27 11:41:03,834][motion][INFO] - new edge: [38, 60] [81 10]
+[2023-04-27 11:41:03,874][motion][INFO] - edge1: [ 0.0056 -0.      0.    ] edge2: [-0.00013333  0.00666667  0.        ]
+[2023-04-27 11:42:04,763][__main__][INFO] - Initializing world
+[2023-04-27 11:42:05,472][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-27 11:42:06,650][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-27 11:42:08,790][trimesh][INFO] - triangulating faces
+[2023-04-27 11:42:33,984][__main__][INFO] - Initializing world
+[2023-04-27 11:42:34,778][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-27 11:42:36,123][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-27 11:42:37,937][trimesh][INFO] - triangulating faces
+[2023-04-27 11:42:55,414][__main__][INFO] - Initializing world
+[2023-04-27 11:42:56,141][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-04-27 11:42:57,347][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-04-27 11:42:59,230][trimesh][INFO] - triangulating faces
+[2023-04-27 11:43:26,794][motion][INFO] - new edge: [38, 60] [81 10]
+[2023-04-27 11:43:26,835][motion][INFO] - edge1: [ 0.0056 -0.      0.    ] edge2: [-0.00013333  0.00666667  0.        ]
+[2023-05-04 00:21:48,127][__main__][INFO] - Initializing world
+[2023-05-04 00:21:48,582][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-05-04 00:21:49,166][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-05-04 00:21:50,459][trimesh][INFO] - triangulating faces
+[2023-05-04 00:22:18,743][motion][INFO] - new edge: [38, 60] [81 10]
+[2023-05-04 00:22:18,798][motion][INFO] - edge1: [ 0.0056 -0.      0.    ] edge2: [-0.00013333  0.00666667  0.        ]
+[2023-05-04 00:23:01,227][__main__][INFO] - Initializing world
+[2023-05-04 00:23:01,757][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-05-04 00:23:02,338][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-05-04 00:23:03,494][trimesh][INFO] - triangulating faces
+[2023-05-04 00:23:15,758][motion][INFO] - new edge: [38, 60] [81 10]
+[2023-05-04 00:23:15,819][motion][INFO] - edge1: [ 0.0056 -0.      0.    ] edge2: [-0.00013333  0.00666667  0.        ]
+[2023-05-04 00:25:20,709][__main__][INFO] - Initializing world
+[2023-05-04 00:25:21,262][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-05-04 00:25:21,751][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-05-04 00:25:22,933][trimesh][INFO] - triangulating faces
+[2023-05-04 00:25:35,601][motion][INFO] - new edge: [38, 60] [81 10]
+[2023-05-04 00:25:35,648][motion][INFO] - edge1: [ 0.0056 -0.      0.003 ] edge2: [-0.00013333  0.00666667  0.003     ]
+[2023-05-04 00:25:54,897][__main__][INFO] - Initializing world
+[2023-05-04 00:25:55,440][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-05-04 00:25:55,947][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-05-04 00:25:57,052][trimesh][INFO] - triangulating faces
+[2023-05-04 00:26:08,803][motion][INFO] - new edge: [38, 60] [81 10]
+[2023-05-04 00:26:08,854][motion][INFO] - edge1: [ 0.0056 -0.      0.006 ] edge2: [-0.00013333  0.00666667  0.006     ]
+[2023-05-04 00:28:04,235][__main__][INFO] - Initializing world
+[2023-05-04 00:28:04,807][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-05-04 00:28:05,402][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-05-04 00:28:06,503][trimesh][INFO] - triangulating faces
+[2023-05-04 00:28:18,919][motion][INFO] - new edge: [38, 60] [81 10]
+[2023-05-04 00:28:18,970][motion][INFO] - edge1: [ 0.0056 -0.      0.006 ] edge2: [-0.00013333  0.00666667  0.006     ]
+[2023-05-04 00:40:59,290][__main__][INFO] - Initializing world
+[2023-05-04 00:40:59,843][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-05-04 00:41:00,397][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-05-04 00:41:01,550][trimesh][INFO] - triangulating faces
+[2023-05-04 00:41:42,224][__main__][INFO] - Initializing world
+[2023-05-04 00:41:42,700][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-05-04 00:41:43,230][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-05-04 00:41:44,384][trimesh][INFO] - triangulating faces
+[2023-05-04 00:41:51,684][motion][INFO] - new edge: [38, 60] [81 10]
+[2023-05-04 00:41:51,729][motion][INFO] - edge1: [ 0.0056 -0.      0.006 ] edge2: [-0.00013333  0.00666667  0.006     ]
+[2023-05-04 00:43:28,239][__main__][INFO] - Initializing world
+[2023-05-04 00:43:28,814][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-05-04 00:43:29,403][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-05-04 00:43:30,443][trimesh][INFO] - triangulating faces
+[2023-05-04 00:43:36,869][motion][INFO] - new edge: [38, 60] [81 10]
+[2023-05-04 00:43:36,916][motion][INFO] - edge1: [ 0.0056 -0.      0.006 ] edge2: [-0.00013333  0.00666667  0.006     ]
+[2023-05-04 00:44:34,255][__main__][INFO] - Initializing world
+[2023-05-04 00:44:35,105][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-05-04 00:44:36,026][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-05-04 00:44:37,906][trimesh][INFO] - triangulating faces
+[2023-05-04 00:44:50,330][motion][INFO] - new edge: [38, 60] [81 10]
+[2023-05-04 00:44:50,373][motion][INFO] - edge1: [ 0.0056 -0.      0.027 ] edge2: [-0.00013333  0.00666667  0.027     ]
+[2023-05-04 00:45:28,245][__main__][INFO] - Initializing world
+[2023-05-04 00:45:29,043][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-05-04 00:45:30,334][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-05-04 00:45:32,199][trimesh][INFO] - triangulating faces
+[2023-05-04 00:45:46,202][motion][INFO] - new edge: [38, 60] [81 10]
+[2023-05-04 00:45:46,253][motion][INFO] - edge1: [ 0.0056 -0.      0.021 ] edge2: [-0.00013333  0.00666667  0.021     ]
+[2023-05-04 01:02:01,349][__main__][INFO] - Initializing world
+[2023-05-04 01:02:02,227][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-05-04 01:02:04,396][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-05-04 01:02:07,303][trimesh][INFO] - triangulating faces
+[2023-05-04 01:02:14,976][motion][INFO] - new edge: [38, 60] [81 10]
+[2023-05-04 01:02:15,027][motion][INFO] - edge1: [-0.         -0.00666667  0.021     ] edge2: [-0.00573333 -0.          0.021     ]
+[2023-05-04 01:11:55,323][__main__][INFO] - Initializing world
+[2023-05-04 01:11:55,874][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-05-04 01:11:56,370][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-05-04 01:11:57,706][trimesh][INFO] - triangulating faces
+[2023-05-04 01:12:05,401][motion][INFO] - new edge: [38, 60] [81 10]
+[2023-05-04 01:12:05,455][motion][INFO] - edge1: [-0.          0.00666667  0.021     ] edge2: [-0.00573333 -0.          0.021     ]
+[2023-05-04 01:13:39,102][__main__][INFO] - Initializing world
+[2023-05-04 01:13:39,535][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-05-04 01:13:40,390][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-05-04 01:13:41,715][trimesh][INFO] - triangulating faces
+[2023-05-04 01:13:49,859][motion][INFO] - new edge: [38, 60] [81 10]
+[2023-05-04 01:13:49,966][motion][INFO] - edge1: [0.0, -0.006666666666666667, 0.021] edge2: [0.005733333333333333, 0.0, 0.021]
+[2023-05-04 01:16:28,220][__main__][INFO] - Initializing world
+[2023-05-04 01:16:28,762][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-05-04 01:16:29,229][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-05-04 01:16:30,321][trimesh][INFO] - triangulating faces
+[2023-05-04 01:16:38,225][motion][INFO] - new edge: [38, 60] [81 10]
+[2023-05-04 01:16:38,273][motion][INFO] - edge1: [0.0, -0.006666666666666667, 0.021] edge2: [0.005733333333333333, 0.0, 0.021]
+[2023-05-04 01:22:39,834][__main__][INFO] - Initializing world
+[2023-05-04 01:22:40,337][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-05-04 01:22:40,984][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-05-04 01:22:42,448][trimesh][INFO] - triangulating faces
+[2023-05-04 01:22:49,351][motion][INFO] - new edge: [38, 60] [81 10]
+[2023-05-04 01:22:49,418][motion][INFO] - edge1: [0.0, -0.006666666666666667, 0.021] edge2: [0.005733333333333333, 0.0, 0.021]
+[2023-05-04 01:25:06,937][__main__][INFO] - Initializing world
+[2023-05-04 01:25:07,367][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-05-04 01:25:07,826][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-05-04 01:25:08,855][trimesh][INFO] - triangulating faces
+[2023-05-04 01:25:20,340][motion][INFO] - new edge: [38, 60] [81 10]
+[2023-05-04 01:25:20,404][motion][INFO] - edge1: [0.0, -0.006666666666666667, 0.021] edge2: [0.005733333333333333, 0.0, 0.021]
+[2023-05-04 02:26:17,477][__main__][INFO] - Initializing world
+[2023-05-04 02:26:18,004][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-05-04 02:26:18,490][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-05-04 02:26:19,855][trimesh][INFO] - triangulating faces
+[2023-05-04 02:28:06,994][__main__][INFO] - Initializing world
+[2023-05-04 02:28:07,662][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-05-04 02:28:08,671][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-05-04 02:28:10,358][trimesh][INFO] - triangulating faces
+[2023-05-04 02:29:10,685][__main__][INFO] - Initializing world
+[2023-05-04 02:29:11,429][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-05-04 02:29:12,858][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-05-04 02:29:14,822][trimesh][INFO] - triangulating faces
+[2023-05-04 02:30:30,059][__main__][INFO] - Initializing world
+[2023-05-04 02:30:30,506][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-05-04 02:30:30,966][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-05-04 02:30:32,087][trimesh][INFO] - triangulating faces
+[2023-05-04 02:30:39,267][motion][INFO] - new edge: [38, 60] [81 10]
+[2023-05-04 02:30:39,315][motion][INFO] - edge1: [0.0, -0.006666666666666667, 0.021] edge2: [0.005733333333333333, 0.0, 0.021]
+[2023-05-04 02:37:04,312][__main__][INFO] - Initializing world
+[2023-05-04 02:37:05,033][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-05-04 02:37:05,928][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-05-04 02:37:07,845][trimesh][INFO] - triangulating faces
+[2023-05-04 02:37:20,953][motion][INFO] - new edge: [38, 60] [81 10]
+[2023-05-04 02:37:21,003][motion][INFO] - edge1: [0.0, -0.006666666666666667, 0.021] edge2: [0.005733333333333333, 0.0, 0.021]
+[2023-05-04 23:20:25,132][__main__][INFO] - Initializing world
+[2023-05-04 23:20:25,928][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-05-04 23:20:27,030][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-05-04 23:20:29,712][trimesh][INFO] - triangulating faces
+[2023-05-04 23:26:03,611][__main__][INFO] - Initializing world
+[2023-05-04 23:26:04,854][pybulletX._wrapper][INFO] - Calling pybullet.setGravity(gravX=0, gravY=0, gravZ=-9.81, physicsClientId=0)
+[2023-05-04 23:26:07,632][tacto.renderer][INFO] - Loading configuration from: /home/yichenl3/anaconda3/envs/tacto/lib/python3.9/site-packages/tacto/config_digit.yml
+[2023-05-04 23:26:14,036][trimesh][INFO] - triangulating faces
